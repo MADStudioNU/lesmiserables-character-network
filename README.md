@@ -6,6 +6,6 @@ Although the work of Professor Knuth was extensive, exposing some of the notable
 
 Northwestern Professor Michal Peled Ginsburg, a scholar of the novel, has devoted considerable time and effort, with the help of the  Multimedia Learning Center of Weinberg College of Arts and Sciences to correct and expand Knuth's original work so that the original dataset might better serve literary scholars and computer scientists alike.
 
-The new version of the data file ("jean-complete.dat") has been authored by Michal Peled Ginsburg, starting from the original work of Donald P. Knuth.
+The new version of the data file ("jean-complete.dat") has been authored by Michal Peled Ginsburg, starting from the original work of Donald Knuth.
 
 For the sake of comparison, the original Stanford Graph Base file ("jean.dat") is also included in this repository.
