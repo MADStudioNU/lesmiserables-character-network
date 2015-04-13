@@ -1,6 +1,6 @@
 # Les Miserables Character Network Data
 
-This folder contains a single data file ("jean-complete.dat") which represents an update to the network of characters in Victor Hugo's Les Miserables first encoded by Professor Donald Knuth, as part of the Stanford Graph Base (SGB) as file "jean.dat"
+This folder contains a data file ("jean-complete.dat") which represents an update to the network of characters in Victor Hugo's Les Miserables first encoded by Professor Donald Knuth, as part of the Stanford Graph Base (SGB) as file "jean.dat"
 
 Although the work of Professor Knuth was extensive, exposing some of the notable complexity of the characters and their interactions within the novel, it did not capture all of the data. And, while the original "jean.dat" file authored by Professor Knuth remains permanently frozen as a consistent example and reference for computer scientists to evaluate different grouping algorithms, Humanists studying the novel can benefit from a corrected and fully-realized dataset.
 
