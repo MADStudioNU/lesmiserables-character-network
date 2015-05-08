@@ -1,4 +1,4 @@
-This folder contains files generated with sgbbookparser_java from the file 'jean-complete.dat' located in the higher-level folder.
+This folder contains files generated with [sgbbookparser_java](https://github.com/mmlc/sgbbookparser_java) from the file 'jean-complete.dat' located in the higher-level folder.
 
 Every effort is made to regnerate these files with updates to jean-complete.dat.
 However, since these files are derived from jean-complete.dat without the use of an 
