@@ -1,0 +1,34 @@
+Coloring
+JV Group in bright color: e.g. bright yellow
+primary colors for largest groups
+secondary/tertiary colors for less significant groups
+
+Group 1:  Pommercy
+Group 2:  Marius  #5: Orange
+Group 3:  Gavroche   #3 - Blue
+Group 4:  Thenardier  #6: Pink
+Group 5:  Jean Valjean   #1 - Yellow
+Group 6: Fantine  #4 - Green
+Group 7: Gilnormand  #5 - Lavender
+Group 8:  Bourgeois Man - different from Gavroche???
+Group 9:  Fauchelevent -- different from JVJ???
+Group 10: Myriel - #2 - Red
+Group 11: Valjean's Sister - different from JVJ
+Group 12: Minister of Agriculture - 
+
+
+
+Grouping
+Whole Novel (Newman-Girvan) Default (kamada-kawai-R)
+Whole Novel Corrected Groupings (gephi) -- Monday 30th - 
+>  Table Sortable Table  -- 7 April 2015
+----wait---
+Arrangement Tweaks -- Tweaks to the Gephi layout and SVG layout to PDF version
+----wait---
+Part by Part  1,2,3,4,5:  Newman-Girvan  (R+gephi)
+Online Versions:
+		Improving Gephi JS Viewer 
+		* Can "undirected links with" list be organized by either modularity class and/or alphabetically by label
+
+
+Map
