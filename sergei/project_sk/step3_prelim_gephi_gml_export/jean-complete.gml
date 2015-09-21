@@ -4,6889 +4,7247 @@ graph
   directed 0
   node
   [
-    id 173
+    id 1
+    label "Bishop Myriel"
     graphics
     [
-      x 99.76699
-      y 10.83263
+      x 34.536
+      y 100.87779
       z 0.0
       w 10.0
       h 10.0
       d 10.0
       fill "#999999"
     ]
+    Description "M. Myriel, Bishop of Digne"
+  ]
+  node
+  [
+    id 2
+    label "Napoleon"
+    graphics
+    [
+      x -47.23354
+      y 116.87747
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Napoleon, Emperor of France"
+  ]
+  node
+  [
+    id 3
+    label "Mlle Baptistine"
+    graphics
+    [
+      x 34.537838
+      y 87.38766
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Mlle Baptistine, sister of Myriel"
+  ]
+  node
+  [
+    id 4
+    label "Mme Magloire"
+    graphics
+    [
+      x 31.993212
+      y 87.969444
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Mme Magloire, housekeeper to Myriel"
+  ]
+  node
+  [
+    id 5
+    label "Hospital director"
+    graphics
+    [
+      x 50.714718
+      y 149.33589
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Hospital director in Digne"
+  ]
+  node
+  [
+    id 6
+    label "Mlle Gillenormand"
+    graphics
+    [
+      x -34.049706
+      y 18.727379
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Mlle Gillenormand, unmarried daughter of Gillenormand"
+  ]
+  node
+  [
+    id 7
+    label "Mayor of Senez"
+    graphics
+    [
+      x 46.87233
+      y 137.96703
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Mayor of Senez"
+  ]
+  node
+  [
+    id 8
+    label "Countess de Lô"
+    graphics
+    [
+      x 52.462215
+      y 142.49345
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Countess de Lô, distant relative of Myriel"
+  ]
+  node
+  [
+    id 9
+    label "Géborand"
+    graphics
+    [
+      x 58.59569
+      y 144.78957
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Géborand, retired merchant of Digne"
+  ]
+  node
+  [
+    id 10
+    label "Champtercier"
+    graphics
+    [
+      x 39.042404
+      y 141.17976
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Marquis de Champtercier, ultra-royalist in Digne"
+  ]
+  node
+  [
+    id 11
+    label "Condemned to death"
+    graphics
+    [
+      x 61.576912
+      y 138.10718
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Man condemned to death"
+  ]
+  node
+  [
+    id 12
+    label "Curé, Digne"
+    graphics
+    [
+      x 35.414543
+      y 147.03471
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Curé in Digne"
+  ]
+  node
+  [
+    id 13
+    label "Chastelar mayor"
+    graphics
+    [
+      x 45.067646
+      y 144.80765
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Mayor of Chastelar"
+  ]
+  node
+  [
+    id 14
+    label "Mountain curé"
+    graphics
+    [
+      x 55.087807
+      y 135.9994
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Curé in the mountains near Digne"
+  ]
+  node
+  [
+    id 15
+    label "Cravatte"
+    graphics
+    [
+      x 41.82027
+      y 150.45602
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Cravatte, mountain bandit"
+  ]
+  node
+  [
+    id 16
+    label "Senator"
+    graphics
+    [
+      x 41.083664
+      y 123.21685
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Senator, Count ***, in Digne"
+  ]
+  node
+  [
+    id 17
+    label "Mme Boischevron"
+    graphics
+    [
+      x 47.226196
+      y 110.385956
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Mme Boischevron, friend and correspondent of Mlle Baptistine"
+  ]
+  node
+  [
+    id 18
+    label "Conventionist"
+    graphics
+    [
+      x 65.001
+      y 184.6097
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "G--, a Convenionist"
+  ]
+  node
+  [
+    id 19
+    label "Shepherd boy"
+    graphics
+    [
+      x 75.751366
+      y 213.71597
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Shepherd boy, serves G-- the conventionist"
+  ]
+  node
+  [
+    id 20
+    label "Gendarme, Digne"
+    graphics
+    [
+      x 31.403696
+      y 46.35941
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Gendarme in Digne"
+  ]
+  node
+  [
+    id 21
+    label "Jean Valjean"
+    graphics
+    [
+      x 13.681578
+      y -9.3079195
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Jean Valjean"
+  ]
+  node
+  [
+    id 22
+    label "Labarre"
+    graphics
+    [
+      x 63.898415
+      y 52.03911
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Labarre, innkeeper in Digne"
+  ]
+  node
+  [
+    id 23
+    label "Kitchen boy"
+    graphics
+    [
+      x 97.337135
+      y 88.452675
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Kitchen boy at Labarre's inn"
+  ]
+  node
+  [
+    id 24
+    label "Tavern keeper"
+    graphics
+    [
+      x 45.91572
+      y 36.50563
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Tavern keeper in Digne"
+  ]
+  node
+  [
+    id 25
+    label "Fisherman, Digne"
+    graphics
+    [
+      x 61.985855
+      y 58.827686
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Fisherman in Digne"
+  ]
+  node
+  [
+    id 26
+    label "Jailer, Digne"
+    graphics
+    [
+      x 51.627953
+      y 8.355608
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Jailer in the prison of Digne"
+  ]
+  node
+  [
+    id 27
+    label "Digne peasant"
+    graphics
+    [
+      x 1.9709823
+      y 106.289795
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Peasant in Digne, whom Valjean asks for food"
+  ]
+  node
+  [
+    id 28
+    label "Peasant's wife"
+    graphics
+    [
+      x -2.0089087
+      y 149.59515
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Peasant's wife"
+  ]
+  node
+  [
+    id 29
+    label "Marquise de R"
+    graphics
+    [
+      x 38.688965
+      y 34.681698
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Marquise de R-, inhabitant of Digne"
+  ]
+  node
+  [
+    id 30
+    label "Valjean's sister"
+    graphics
+    [
+      x 19.538017
+      y 136.55531
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Jeanne, sister of Valjean"
+  ]
+  node
+  [
+    id 31
+    label "Marie-Claude"
+    graphics
+    [
+      x 38.23624
+      y 27.791103
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Marie-Claude, neighbor of the Valjeans in Faverolles"
+  ]
+  node
+  [
+    id 32
+    label "Isabeau"
+    graphics
+    [
+      x 48.44394
+      y 15.112077
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Isabeau, baker in Faverolles"
+  ]
+  node
+  [
+    id 33
+    label "Prison guard"
+    graphics
+    [
+      x 54.758175
+      y 0.59289217
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Prison guard"
+  ]
+  node
+  [
+    id 34
+    label "Sister's son"
+    graphics
+    [
+      x 27.218061
+      y 214.61626
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Youngest son of Valjean's sister"
+  ]
+  node
+  [
+    id 35
+    label "Door keeper"
+    graphics
+    [
+      x 30.163525
+      y 242.47614
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Door keeper at a Paris bindery"
+  ]
+  node
+  [
+    id 36
+    label "Foreman, Grasse"
+    graphics
+    [
+      x 45.591385
+      y 28.407694
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Distillery foreman in Grasse"
+  ]
+  node
+  [
+    id 37
+    label "Three gendarmes"
+    graphics
+    [
+      x 38.533478
+      y 75.609695
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Three gendarmes, arrested Valjean"
+  ]
+  node
+  [
+    id 38
+    label "Petit Gervais"
+    graphics
+    [
+      x 52.141838
+      y 32.54503
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Petit Gervais, a chimney sweep"
+  ]
+  node
+  [
+    id 39
+    label "Priest, Digne"
+    graphics
+    [
+      x 34.536137
+      y 40.812878
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "A priest on the road from Digne"
+  ]
+  node
+  [
+    id 40
+    label "Tholomyès,"
+    graphics
+    [
+      x 133.61479
+      y -90.105255
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Tholomyès, Parisian student, lover of Fantine"
+  ]
+  node
+  [
+    id 41
+    label "Listolier"
+    graphics
+    [
+      x 128.809
+      y -97.25751
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Listolier, Parisian student, lover of Dahlia"
+  ]
+  node
+  [
+    id 42
+    label "Fameuil"
+    graphics
+    [
+      x 130.25116
+      y -92.58322
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Fameuil, Parisian student, lover of  Zéphine"
+  ]
+  node
+  [
+    id 43
+    label "Blachevelle"
+    graphics
+    [
+      x 133.24
+      y -95.218796
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Blachevelle, Parisian student, lover of Favourite"
+  ]
+  node
+  [
+    id 44
+    label "Favourite"
+    graphics
+    [
+      x 125.05843
+      y -93.5137
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Favourite, mistress of Blachevelle"
+  ]
+  node
+  [
+    id 45
+    label "Dahlia"
+    graphics
+    [
+      x 124.186134
+      y -89.13007
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Dahlia, mistress of Listolier"
+  ]
+  node
+  [
+    id 46
+    label "Zephine"
+    graphics
+    [
+      x 128.32864
+      y -86.94755
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Zephine, mistress of Fameuil"
+  ]
+  node
+  [
+    id 47
+    label "Fantine"
+    graphics
+    [
+      x 88.89598
+      y -68.09219
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Fantine, mistress of Tholomyès"
+  ]
+  node
+  [
+    id 48
+    label "Waiter"
+    graphics
+    [
+      x 150.8168
+      y -103.90699
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Waiter at Bombarda"
+  ]
+  node
+  [
+    id 49
+    label "Azelma"
+    graphics
+    [
+      x -12.734413
+      y -43.159733
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Azelma, daughter of the Thénardiers"
+  ]
+  node
+  [
+    id 50
+    label "Eponine"
+    graphics
+    [
+      x -24.17133
+      y -46.25695
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Eponine, daughter of the Thénardiers"
+  ]
+  node
+  [
+    id 51
+    label "Mme Thénardier"
+    graphics
+    [
+      x 0.17014706
+      y -44.10424
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Madame Thénardier, wife of Thénardier"
+  ]
+  node
+  [
+    id 52
+    label "Cosette"
+    graphics
+    [
+      x -11.747561
+      y -18.742033
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Cosette, daughter of Fantine"
+  ]
+  node
+  [
+    id 53
+    label "Thénardier"
+    graphics
+    [
+      x -2.8122246
+      y -52.302902
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Thénardier, innkeeper in Montfermeil, aka Jondrette"
+  ]
+  node
+  [
+    id 54
+    label "Thénardiers' neighbor"
+    graphics
+    [
+      x 145.08235
+      y -71.160995
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Neighbor of Thénardiers"
+  ]
+  node
+  [
+    id 55
+    label "Dowager M-s-M"
+    graphics
+    [
+      x 16.848452
+      y 46.038864
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Dowager in M-sur-M"
+  ]
+  node
+  [
+    id 56
+    label "Fauchelevent"
+    graphics
+    [
+      x 16.121674
+      y 6.8857603
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Fauchelevent, failed notary turned carter in M-sur-M"
+  ]
+  node
+  [
+    id 57
+    label "Javert"
+    graphics
+    [
+      x 5.9221745
+      y -38.68864
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Javert, police officer"
+  ]
+  node
+  [
+    id 58
+    label "Mme Victurnien"
+    graphics
+    [
+      x 44.860535
+      y -70.50119
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Mme Victurnien, snoop in M-sur-M"
+  ]
+  node
+  [
+    id 59
+    label "Factory supervisor"
+    graphics
+    [
+      x 105.60163
+      y -80.461784
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Supervisor in M. Madeleine's factory"
+  ]
+  node
+  [
+    id 60
+    label "Furniture seller"
+    graphics
+    [
+      x 135.9479
+      y -65.53552
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Secondhand dealer who sold furniture to Fantine"
+  ]
+  node
+  [
+    id 61
+    label "Landlord"
+    graphics
+    [
+      x 109.81364
+      y -111.03241
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Fantine's landlord"
+  ]
+  node
+  [
+    id 62
+    label "Marguerite"
+    graphics
+    [
+      x 102.666176
+      y -74.83266
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Marguerite, friend of Fantine in M-sur-M"
+  ]
+  node
+  [
+    id 63
+    label "Barber"
+    graphics
+    [
+      x 142.10573
+      y -65.25408
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Barber to whom Fantine sells her hair"
+  ]
+  node
+  [
+    id 64
+    label "Itinerant dentist"
+    graphics
+    [
+      x 115.743286
+      y -114.850006
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Itinerant dentist"
+  ]
+  node
+  [
+    id 65
+    label "Bamatabois"
+    graphics
+    [
+      x 110.65039
+      y 9.1488695
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "M. Bamatabois, idler of M-sur-M"
+  ]
+  node
+  [
+    id 66
+    label "Police sergeant M-s-M"
+    graphics
+    [
+      x 40.850338
+      y -88.45044
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Police sergeant in M-sur-M"
+  ]
+  node
+  [
+    id 67
+    label "Doctor M-s-M"
+    graphics
+    [
+      x 74.826744
+      y -50.01922
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Doctor in M-sur-M hospital"
+  ]
+  node
+  [
+    id 68
+    label "Sister Simplice"
+    graphics
+    [
+      x 67.68895
+      y -43.64594
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Sister Simplice, nun at infirmary in M-sur-M"
+  ]
+  node
+  [
+    id 69
+    label "M. Scaufflaire"
+    graphics
+    [
+      x 65.62218
+      y -120.238266
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "M. Scaufflaire, keeper of horses and coaches in M-sur-M"
+  ]
+  node
+  [
+    id 70
+    label "M. Scaufflaire's wife"
+    graphics
+    [
+      x 84.2729
+      y -159.76617
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "M. Scaufflaire's wife"
+  ]
+  node
+  [
+    id 71
+    label "Cashier"
+    graphics
+    [
+      x 76.32404
+      y -89.36351
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Cashier at M.Madeleine's manufactory"
+  ]
+  node
+  [
+    id 72
+    label "Portress, M-s-M"
+    graphics
+    [
+      x 49.66758
+      y -48.71233
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Portress of JV in M-sur-M"
+  ]
+  node
+  [
+    id 73
+    label "Arras coachman"
+    graphics
+    [
+      x 20.71703
+      y 40.440945
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Coachman of the mail to Arras"
+  ]
+  node
+  [
+    id 74
+    label "Stable boy"
+    graphics
+    [
+      x 58.873547
+      y 6.127368
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Stable boy in Hesdin"
+  ]
+  node
+  [
+    id 75
+    label "Wheelright"
+    graphics
+    [
+      x 49.60356
+      y 22.06151
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Master Bourgaillard, wheelright"
+  ]
+  node
+  [
+    id 76
+    label "Old woman"
+    graphics
+    [
+      x 60.69498
+      y -15.219405
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Old woman in Hesdin"
+  ]
+  node
+  [
+    id 77
+    label "Old woman's son"
+    graphics
+    [
+      x 56.579468
+      y 13.161115
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Old woman's son"
+  ]
+  node
+  [
+    id 78
+    label "Innkeeper's wife"
+    graphics
+    [
+      x 55.07363
+      y 26.559214
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Innkeeper's wife at Saint Pol"
+  ]
+  node
+  [
+    id 79
+    label "Saint Pol Servant girl"
+    graphics
+    [
+      x 36.472412
+      y 2.5769792
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Servant girl in Saint Pol"
+  ]
+  node
+  [
+    id 80
+    label "German teamster"
+    graphics
+    [
+      x 57.05022
+      y -7.2775164
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "German teamster"
+  ]
+  node
+  [
+    id 81
+    label "Road mender"
+    graphics
+    [
+      x 31.758427
+      y 33.684353
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Road mender"
+  ]
+  node
+  [
+    id 82
+    label "Postillion"
+    graphics
+    [
+      x 27.17136
+      y 39.065098
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Postillion, accompanying Valjean to Arras"
+  ]
+  node
+  [
+    id 83
+    label "Hospital servant"
+    graphics
+    [
+      x 114.154915
+      y -57.64933
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Servant at the hospital in M-sur-M"
+  ]
+  node
+  [
+    id 84
+    label "Arras hotel keeper"
+    graphics
+    [
+      x 40.82453
+      y 43.031963
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Landlady at an Arras hotel"
+  ]
+  node
+  [
+    id 85
+    label "Arras resident"
+    graphics
+    [
+      x 61.70985
+      y -1.3626628
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Resident of Arras"
+  ]
+  node
+  [
+    id 86
+    label "Booking clerk"
+    graphics
+    [
+      x 56.389008
+      y 19.608404
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Booking clerk in Arras's court"
+  ]
+  node
+  [
+    id 87
+    label "Arras lawyer"
+    graphics
+    [
+      x 63.455025
+      y -9.007528
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Lawyer in Arras's court"
+  ]
+  node
+  [
+    id 88
+    label "Bailiff"
+    graphics
+    [
+      x 70.76123
+      y 11.375338
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Bailiff in Arras's court"
+  ]
+  node
+  [
+    id 89
+    label "Judge"
+    graphics
+    [
+      x 96.95702
+      y 19.83182
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Judge at the Arras court"
+  ]
+  node
+  [
+    id 90
+    label "Champmathieu"
+    graphics
+    [
+      x 92.5194
+      y 24.722527
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Champmathieu, accused thief mistaken for Valjean"
+  ]
+  node
+  [
+    id 91
+    label "Defense counsel"
+    graphics
+    [
+      x 120.83999
+      y 25.413006
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Counsel for the defense in Champmathieu's trial"
+  ]
+  node
+  [
+    id 92
+    label "Prosecuting attorney"
+    graphics
+    [
+      x 91.82861
+      y 15.031445
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Prosecuting attorney in Champmathieu trial"
+  ]
+  node
+  [
+    id 93
+    label "Brevet"
+    graphics
+    [
+      x 104.80249
+      y 28.67295
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Brevet, convict in the galleys with Valjean"
+  ]
+  node
+  [
+    id 94
+    label "Chenildieu"
+    graphics
+    [
+      x 104.874626
+      y 22.585932
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Chenildieu, convict in the galleys with Valjean"
+  ]
+  node
+  [
+    id 95
+    label "Cochepaille"
+    graphics
+    [
+      x 99.25251
+      y 30.668915
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Cochepaille, convict in the galleys with Valjean"
+  ]
+  node
+  [
+    id 96
+    label "Colonel Pontmercy"
+    graphics
+    [
+      x -108.00716
+      y 64.133194
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Colonel George Pontmercy, Marius's father"
+  ]
+  node
+  [
+    id 97
+    label "Boulatruelle"
+    graphics
+    [
+      x 22.0841
+      y -71.75952
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Boulatruelle, former convict and road mender in Montfermeil"
+  ]
+  node
+  [
+    id 98
+    label "Gavroche"
+    graphics
+    [
+      x -77.60313
+      y -57.67265
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Gavroche, son of the Thénardiers"
+  ]
+  node
+  [
+    id 99
+    label "Peddler"
+    graphics
+    [
+      x -7.825557
+      y 6.06288
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Peddler in Thénardier's inn"
+  ]
+  node
+  [
+    id 100
+    label "Louis-Philippe"
+    graphics
+    [
+      x 85.16861
+      y -12.508213
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Louis-Philippe d'Orléans, King of France"
+  ]
+  node
+  [
+    id 101
+    label "Duc d'Havré"
+    graphics
+    [
+      x 88.13418
+      y -16.556879
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Duc d'Havré, accompanies Louis-Philippe"
+  ]
+  node
+  [
+    id 102
+    label "Montfermeuil coachman"
+    graphics
+    [
+      x 24.261051
+      y 46.95404
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Montfermeuil coachman"
+  ]
+  node
+  [
+    id 103
+    label "Landlady, Gorbeau"
+    graphics
+    [
+      x 32.632755
+      y -19.365295
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Landlady at Gorbeau House (during JVJ's stay)"
+  ]
+  node
+  [
+    id 104
+    label "Toll keeper"
+    graphics
+    [
+      x 42.864494
+      y 21.44
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Toll keeper at Austerlitz bridge"
+  ]
+  node
+  [
+    id 105
+    label "Soldiers"
+    graphics
+    [
+      x 29.756334
+      y -40.84277
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Soldiers pursuing Valjean, led by Javert"
+  ]
+  node
+  [
+    id 106
+    label "Mother Innocent"
+    graphics
+    [
+      x 18.532116
+      y 18.141615
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Mother Innocent, prioress of Convent of Petit Picpus"
+  ]
+  node
+  [
+    id 107
+    label "Gribier"
+    graphics
+    [
+      x 24.193117
+      y 23.698486
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Gribier, new gravedigger at Vaugirard cemetery"
+  ]
+  node
+  [
+    id 108
+    label "M. Gillenormand"
+    graphics
+    [
+      x -36.65091
+      y 0.8722578
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "M. Gillenormand, Marius's grandfather"
+  ]
+  node
+  [
+    id 109
+    label "Magnon"
+    graphics
+    [
+      x -57.515156
+      y -88.07522
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Magnon, servant of Gillenormand"
+  ]
+  node
+  [
+    id 110
+    label "Mlle Vaubois"
+    graphics
+    [
+      x -53.237747
+      y 70.610085
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Mlle Vaubois, friend of Mlle Gillenormand"
+  ]
+  node
+  [
+    id 111
+    label "Théodule"
+    graphics
+    [
+      x -44.69492
+      y 22.259832
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Lieutenant Théodule Gillenormand, grandnephew of Gillenormand"
+  ]
+  node
+  [
+    id 112
+    label "Marius"
+    graphics
+    [
+      x -37.622704
+      y -15.145387
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Marius"
+  ]
+  node
+  [
+    id 113
+    label "Baroness de T"
+    graphics
+    [
+      x -74.510086
+      y 62.494987
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Baroness de T-, friend of M. Gillenormand"
+  ]
+  node
+  [
+    id 114
+    label "Count Lamothe"
+    graphics
+    [
+      x -95.64868
+      y 103.73439
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Count Lamothe, member of Baroness de T-'s salon"
+  ]
+  node
+  [
+    id 115
+    label "Pontmercy's servant"
+    graphics
+    [
+      x -122.42903
+      y 78.148796
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Woman servant to Colonel Pontmercy"
+  ]
+  node
+  [
+    id 116
+    label "Abbé Mabeuf"
+    graphics
+    [
+      x -131.43799
+      y 87.88661
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Abbé Mabeuf, curé in Vernon, brother of M. Mabeuf"
+  ]
+  node
+  [
+    id 117
+    label "Mme Pontmercy"
+    graphics
+    [
+      x -133.89207
+      y 100.803505
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Mme Pontmercy, younger daughter of Gillenormand"
+  ]
+  node
+  [
+    id 118
+    label "M. Mabeuf"
+    graphics
+    [
+      x -104.893524
+      y 0.91036683
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "M. Mabeuf, warden of St. Sulpice, bibliophile"
+  ]
+  node
+  [
+    id 119
+    label "Doctor, Vernon"
+    graphics
+    [
+      x -143.57838
+      y 99.25244
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Doctor in Vernon"
+  ]
+  node
+  [
+    id 120
+    label "Bossuet"
+    graphics
+    [
+      x -84.7608
+      y -26.617723
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Bossuet (Lesgle), member, Friends of the ABC"
+  ]
+  node
+  [
+    id 121
+    label "Courfeyrac"
+    graphics
+    [
+      x -74.9191
+      y -30.40052
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Courfeyrac, member, Friends of the ABC"
+  ]
+  node
+  [
+    id 122
+    label "Bahorel"
+    graphics
+    [
+      x -88.23961
+      y -36.828163
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Bahorel, member, Friends of the ABC"
+  ]
+  node
+  [
+    id 123
+    label "Combeferre"
+    graphics
+    [
+      x -78.80009
+      y -23.785036
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Combeferre, member, Friends of the ABC"
+  ]
+  node
+  [
+    id 124
+    label "Enjolras"
+    graphics
+    [
+      x -67.18415
+      y -25.637335
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Enjolras, chief of Friends of the ABC"
+  ]
+  node
+  [
+    id 125
+    label "Grantaire"
+    graphics
+    [
+      x -122.16912
+      y -30.726645
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Grantaire, Friends of the ABC skeptic"
+  ]
+  node
+  [
+    id 126
+    label "Joly"
+    graphics
+    [
+      x -100.95412
+      y -29.685453
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Joly, member Friends of the ABC"
+  ]
+  node
+  [
+    id 127
+    label "Mother Plutarch"
+    graphics
+    [
+      x -119.72252
+      y 10.291671
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Mother Plutarch, housekeeper of M. Mabeuf"
+  ]
+  node
+  [
+    id 128
+    label "Marius's servant"
+    graphics
+    [
+      x -72.52734
+      y 33.731636
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Servant to Marius at Garbeau tenement"
+  ]
+  node
+  [
+    id 129
+    label "Mme Burgon"
+    graphics
+    [
+      x -52.164448
+      y -49.739468
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Mme Burgon (aka Bougon), new concierge at the Gorbeau tenement"
+  ]
+  node
+  [
+    id 130
+    label "Prouvaire"
+    graphics
+    [
+      x -90.266365
+      y -31.39243
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Prouvaire, member Friends of the ABC"
+  ]
+  node
+  [
+    id 131
+    label "Porter, r. de l'Ouest"
+    graphics
+    [
+      x -25.066412
+      y 9.212798
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Porter, rue de l'Ouest"
+  ]
+  node
+  [
+    id 132
+    label "Gueulemer"
+    graphics
+    [
+      x -8.171561
+      y -77.62829
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Gueulemer, member of Patron-Minette"
+  ]
+  node
+  [
+    id 133
+    label "Claquesous"
+    graphics
+    [
+      x -3.5103304
+      y -89.89479
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Claquesous, member of Patron-Minette,aka Le Cabuc"
+  ]
+  node
+  [
+    id 134
+    label "Parisian coachman"
+    graphics
+    [
+      x -67.23653
+      y 37.616844
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Coachman by Gorbeau tenement"
+  ]
+  node
+  [
+    id 135
+    label "Panchaud"
+    graphics
+    [
+      x 6.2721295
+      y -71.36665
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Panchaud, a criminal aka as Printanier, Bigrenaille"
+  ]
+  node
+  [
+    id 136
+    label "Brujon"
+    graphics
+    [
+      x -4.143707
+      y -81.35696
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Brujon, criminal, associate of Patron-Minette"
+  ]
+  node
+  [
+    id 137
+    label "Deuxmilliards"
+    graphics
+    [
+      x 7.7292013
+      y -84.50225
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Deux-millards, aka Demi-liard, a criminal"
+  ]
+  node
+  [
+    id 138
+    label "Babet"
+    graphics
+    [
+      x -12.599628
+      y -81.8661
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Babet, member, Patron-Minette"
+  ]
+  node
+  [
+    id 139
+    label "Feuilly"
+    graphics
+    [
+      x -94.91729
+      y -22.992094
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Feuilly, member, Friends of the ABC"
+  ]
+  node
+  [
+    id 140
+    label "Card player"
+    graphics
+    [
+      x -176.55287
+      y -32.95151
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Man playing cards with Grantaire"
+  ]
+  node
+  [
+    id 141
+    label "Guard, La Force"
+    graphics
+    [
+      x 3.4012048
+      y -137.04114
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Guard, La Force prison"
+  ]
+  node
+  [
+    id 142
+    label "Babet's girlfriend"
+    graphics
+    [
+      x -44.15098
+      y -128.7206
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Babet's girlfriend"
+  ]
+  node
+  [
+    id 143
+    label "Toussaint"
+    graphics
+    [
+      x -1.5799258
+      y -12.152079
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Toussaint, servant of Valjean at Rue Plumet"
+  ]
+  node
+  [
+    id 144
+    label "Montparnasse"
+    graphics
+    [
+      x -28.235632
+      y -78.78236
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Montparnasse, member of Patron-Minette"
+  ]
+  node
+  [
+    id 145
+    label "Older child"
+    graphics
+    [
+      x -95.48245
+      y -108.267426
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Older Child, son of Thénardier, raised by Magnon"
+  ]
+  node
+  [
+    id 146
+    label "Younger child"
+    graphics
+    [
+      x -99.113144
+      y -105.12335
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Younger Child, son of Thénardier, raised by Magnon"
+  ]
+  node
+  [
+    id 147
+    label "Paris barber"
+    graphics
+    [
+      x -118.748695
+      y -118.525925
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Barber encountered by Gavroche"
+  ]
+  node
+  [
+    id 148
+    label "Poor girl"
+    graphics
+    [
+      x -122.55981
+      y -98.43806
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Poor girl, helped by Gavroche"
+  ]
+  node
+  [
+    id 149
+    label "Paris baker"
+    graphics
+    [
+      x -126.09655
+      y -93.32267
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Baker, visited by Gavroche"
+  ]
+  node
+  [
+    id 150
+    label "Basque"
+    graphics
+    [
+      x -21.56338
+      y 31.015553
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Basque, manservant to Gillenormand"
+  ]
+  node
+  [
+    id 151
+    label "Minister of agriculture"
+    graphics
+    [
+      x -196.92543
+      y 35.420864
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Minister of agriculture"
+  ]
+  node
+  [
+    id 152
+    label "Minister's wife"
+    graphics
+    [
+      x -228.72786
+      y 47.465565
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Minister of agriculture's wife"
+  ]
+  node
+  [
+    id 153
+    label "Gardener"
+    graphics
+    [
+      x -153.19365
+      y 24.243975
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Gardener, encountered by Mabeuf"
+  ]
+  node
+  [
+    id 154
+    label "Secondhand dealer"
+    graphics
+    [
+      x -116.25749
+      y -100.00635
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Secondhand dealer from whom Gavroche 'borrows' a pistol"
+  ]
+  node
+  [
+    id 155
+    label "Ragpicker"
+    graphics
+    [
+      x -125.341415
+      y -86.324005
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Ragpicker"
+  ]
+  node
+  [
+    id 156
+    label "Three concierges"
+    graphics
+    [
+      x -136.16365
+      y -93.18897
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Three concierges, met by Gvaroche"
+  ]
+  node
+  [
+    id 157
+    label "Old soldier"
+    graphics
+    [
+      x -149.57806
+      y -150.0842
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Old soldier at barbershop"
+  ]
+  node
+  [
+    id 158
+    label "Concierge, Verrerie"
+    graphics
+    [
+      x -133.5347
+      y -53.98013
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Concierge, rue de la Verrerie"
+  ]
+  node
+  [
+    id 159
+    label "Mme Hucheloup"
+    graphics
+    [
+      x -152.23192
+      y -34.116505
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Mme Hucheloup, keeper of Corinth Inn"
+  ]
+  node
+  [
+    id 160
+    label "Matelotte"
+    graphics
+    [
+      x -142.21327
+      y -32.231674
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Matelotte, a servant at the Corinth Inn"
+  ]
+  node
+  [
+    id 161
+    label "Gibolette"
+    graphics
+    [
+      x -141.03917
+      y -26.660114
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Gibolette, servant in Corinth Inn"
+  ]
+  node
+  [
+    id 162
+    label "Navet"
+    graphics
+    [
+      x -145.52309
+      y -8.338671
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Navet, friend of Gavroche"
+  ]
+  node
+  [
+    id 163
+    label "Dandy"
+    graphics
+    [
+      x -118.630936
+      y -88.37852
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Dandy near the barricade"
+  ]
+  node
+  [
+    id 164
+    label "Porter,barricade"
+    graphics
+    [
+      x 1.8118527
+      y -145.64375
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Porter shot at the barricade by Le Cabuc"
+  ]
+  node
+  [
+    id 165
+    label "Government troops"
+    graphics
+    [
+      x -87.08752
+      y -19.460585
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Government troops"
+  ]
+  node
+  [
+    id 166
+    label "Drunk coachman"
+    graphics
+    [
+      x -131.23988
+      y -82.216324
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Drunk Auvergnat coachman"
+  ]
+  node
+  [
+    id 167
+    label "Sergeant, Imprimérie"
+    graphics
+    [
+      x -114.91021
+      y -93.58789
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Sergeant at the Imprimérie Royale post"
+  ]
+  node
+  [
+    id 168
+    label "Insurgent workers"
+    graphics
+    [
+      x -85.424484
+      y -5.9580674
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Insurgent workers"
+  ]
+  node
+  [
+    id 169
+    label "Anonymous worker"
+    graphics
+    [
+      x -130.11987
+      y 0.07568382
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Anonymous worker at barricade"
+  ]
+  node
+  [
+    id 170
+    label "Bourgeois man"
+    graphics
+    [
+      x -128.24077
+      y -145.87666
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Bourgeois man in Luxemburg gardens"
+  ]
+  node
+  [
+    id 171
+    label "Bourgeois son"
+    graphics
+    [
+      x -122.986435
+      y -149.1293
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Bourgeois man's son"
+  ]
+  node
+  [
+    id 172
+    label "Sewermen"
+    graphics
+    [
+      x -0.3767102
+      y 17.952845
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Sewermen"
+  ]
+  node
+  [
+    id 173
+    label "Javert's coachman"
+    graphics
+    [
+      x 20.505928
+      y -37.933018
+      z 0.0
+      w 10.0
+      h 10.0
+      d 10.0
+      fill "#999999"
+    ]
+    Description "Coachman assisting Javert"
   ]
   node
   [
     id 174
+    label "Concierge, Gillenormand"
     graphics
     [
-      x 24.372587
-      y -66.704124
+      x -15.786816
+      y 16.969828
       z 0.0
       w 10.0
       h 10.0
       d 10.0
       fill "#999999"
     ]
+    Description "Concierge at Gillenormand"
   ]
   node
   [
     id 175
+    label "Nicolette"
     graphics
     [
-      x 87.52898
-      y 14.162769
+      x -28.021643
+      y 42.16636
       z 0.0
       w 10.0
       h 10.0
       d 10.0
       fill "#999999"
     ]
+    Description "Nicolette, maid to Gillenormand"
   ]
   node
   [
     id 176
+    label "Doctor, Gillenormand"
     graphics
     [
-      x 87.326385
-      y 11.56965
+      x -43.182255
+      y 32.335434
       z 0.0
       w 10.0
       h 10.0
       d 10.0
       fill "#999999"
     ]
+    Description "Doctor at Gillenormand"
   ]
   node
   [
     id 177
+    label "Concierge, l'Homme Armé"
     graphics
     [
-      x 142.88977
-      y 27.620247
+      x -15.666242
+      y 89.7636
       z 0.0
       w 10.0
       h 10.0
       d 10.0
       fill "#999999"
     ]
+    Description "Concierge at rue de l'Homme Armé"
   ]
   node
   [
     id 178
+    label "Concierge's husband"
     graphics
     [
-      x 13.632177
-      y -37.787903
+      x -24.00074
+      y 133.82965
       z 0.0
       w 10.0
       h 10.0
       d 10.0
       fill "#999999"
     ]
+    Description "Husband of Concierge at rue de l'Homme Armé"
   ]
   node
   [
     id 179
+    label "Doctor, Valjean"
     graphics
     [
-      x 151.12811
-      y 14.140428
+      x -17.441883
+      y 66.43288
       z 0.0
       w 10.0
       h 10.0
       d 10.0
       fill "#999999"
     ]
-  ]
-  node
-  [
-    id 180
-    graphics
-    [
-      x 139.23
-      y 13.395737
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 181
-    graphics
-    [
-      x 144.92415
-      y -0.0110055655
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 182
-    graphics
-    [
-      x 140.1985
-      y 4.9252467
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 183
-    graphics
-    [
-      x 139.38904
-      y 21.782684
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 184
-    graphics
-    [
-      x 145.28435
-      y 9.816869
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 185
-    graphics
-    [
-      x 148.64458
-      y 23.069994
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 186
-    graphics
-    [
-      x 145.07288
-      y 17.612085
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 187
-    graphics
-    [
-      x 149.9315
-      y 5.2580314
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 188
-    graphics
-    [
-      x 123.40474
-      y 11.494099
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 189
-    graphics
-    [
-      x 113.2421
-      y 20.510143
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 190
-    graphics
-    [
-      x 189.15097
-      y 18.34451
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 191
-    graphics
-    [
-      x 220.3032
-      y 21.052841
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 192
-    graphics
-    [
-      x 49.303635
-      y 17.526886
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 193
-    graphics
-    [
-      x -8.946973
-      y 17.278334
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 194
-    graphics
-    [
-      x -5.9116864
-      y 83.53242
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 195
-    graphics
-    [
-      x -11.28691
-      y 135.1356
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 196
-    graphics
-    [
-      x 3.721452
-      y 57.524326
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 197
-    graphics
-    [
-      x 3.5631342
-      y 79.66661
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 198
-    graphics
-    [
-      x 31.965652
-      y 46.929565
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 199
-    graphics
-    [
-      x -105.327354
-      y 96.15431
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 200
-    graphics
-    [
-      x -137.24313
-      y 124.56545
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 201
-    graphics
-    [
-      x 30.771976
-      y 39.58208
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 202
-    graphics
-    [
-      x 133.57944
-      y -16.179646
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 203
-    graphics
-    [
-      x -1.6584936
-      y 59.533012
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 204
-    graphics
-    [
-      x 48.32826
-      y 39.765453
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 205
-    graphics
-    [
-      x 27.780874
-      y 52.07933
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 206
-    graphics
-    [
-      x 210.40382
-      y -29.609608
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 207
-    graphics
-    [
-      x 237.96187
-      y -34.252625
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 208
-    graphics
-    [
-      x 42.855854
-      y 35.20213
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 209
-    graphics
-    [
-      x 79.83606
-      y 24.836157
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 210
-    graphics
-    [
-      x 41.65676
-      y 52.968674
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 211
-    graphics
-    [
-      x 46.92729
-      y 10.412107
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 212
-    graphics
-    [
-      x 23.755468
-      y 151.60637
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 213
-    graphics
-    [
-      x 32.84143
-      y 148.93555
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 214
-    graphics
-    [
-      x 27.41518
-      y 148.53793
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 215
-    graphics
-    [
-      x 29.347672
-      y 153.08331
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 216
-    graphics
-    [
-      x 29.892162
-      y 143.88878
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 217
-    graphics
-    [
-      x 26.12779
-      y 142.07036
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 218
-    graphics
-    [
-      x 22.701847
-      y 145.493
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 219
-    graphics
-    [
-      x 13.135089
-      y 101.67669
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 220
-    graphics
-    [
-      x 35.23875
-      y 171.40703
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 221
-    graphics
-    [
-      x -41.16659
-      y -2.6345596
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 222
-    graphics
-    [
-      x -44.14094
-      y -14.7719755
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 223
-    graphics
-    [
-      x -38.931194
-      y 13.702858
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 224
-    graphics
-    [
-      x -21.147306
-      y -6.2769876
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 225
-    graphics
-    [
-      x -47.77684
-      y 8.935005
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 226
-    graphics
-    [
-      x 49.648205
-      y 129.42838
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 227
-    graphics
-    [
-      x 29.570656
-      y 58.791958
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 228
-    graphics
-    [
-      x 8.106986
-      y 18.323082
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 229
-    graphics
-    [
-      x -32.391994
-      y 8.552673
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 230
-    graphics
-    [
-      x -29.118504
-      y 59.514717
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 231
-    graphics
-    [
-      x 25.34464
-      y 120.320435
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 232
-    graphics
-    [
-      x 56.45632
-      y 129.91124
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 233
-    graphics
-    [
-      x 57.7801
-      y 137.20909
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 234
-    graphics
-    [
-      x 19.266554
-      y 116.617424
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 235
-    graphics
-    [
-      x 51.133358
-      y 136.43349
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 236
-    graphics
-    [
-      x 54.084602
-      y 143.82494
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 237
-    graphics
-    [
-      x -35.61562
-      y 114.7012
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 238
-    graphics
-    [
-      x -80.74625
-      y 52.60813
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 239
-    graphics
-    [
-      x 14.430804
-      y 81.34023
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 240
-    graphics
-    [
-      x 11.351212
-      y 70.85281
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 241
-    graphics
-    [
-      x -93.03564
-      y 111.21407
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 242
-    graphics
-    [
-      x -120.0816
-      y 144.46968
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 243
-    graphics
-    [
-      x -89.09912
-      y 94.21096
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 244
-    graphics
-    [
-      x -49.625996
-      y 57.851574
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 245
-    graphics
-    [
-      x 38.9825
-      y 40.81083
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 246
-    graphics
-    [
-      x 45.09372
-      y 28.28908
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 247
-    graphics
-    [
-      x 50.52409
-      y 32.72986
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 248
-    graphics
-    [
-      x 15.627888
-      y 54.271786
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 249
-    graphics
-    [
-      x 35.085346
-      y 34.468487
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 250
-    graphics
-    [
-      x 42.3171
-      y 15.33173
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 251
-    graphics
-    [
-      x 6.267914
-      y 38.53307
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 252
-    graphics
-    [
-      x 35.469296
-      y 55.766697
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 253
-    graphics
-    [
-      x 38.11386
-      y 28.168753
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 254
-    graphics
-    [
-      x 50.449005
-      y 24.33379
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 255
-    graphics
-    [
-      x 40.559036
-      y 110.478355
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 256
-    graphics
-    [
-      x 20.56771
-      y 49.428165
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 257
-    graphics
-    [
-      x 45.451626
-      y 45.892563
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 258
-    graphics
-    [
-      x 38.19962
-      y 47.473175
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 259
-    graphics
-    [
-      x 22.253635
-      y 57.144157
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 260
-    graphics
-    [
-      x -27.317446
-      y 73.56993
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 261
-    graphics
-    [
-      x -39.97158
-      y 98.95332
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 262
-    graphics
-    [
-      x -47.437187
-      y 96.43579
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 263
-    graphics
-    [
-      x -51.510582
-      y 122.95557
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 264
-    graphics
-    [
-      x -42.033504
-      y 91.86248
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 265
-    graphics
-    [
-      x -44.183514
-      y 106.32874
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 266
-    graphics
-    [
-      x -50.046238
-      y 107.51427
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 267
-    graphics
-    [
-      x -52.95318
-      y 102.28416
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 268
-    graphics
-    [
-      x -125.085724
-      y -79.58288
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 269
-    graphics
-    [
-      x -67.29073
-      y 35.861034
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 270
-    graphics
-    [
-      x -37.52502
-      y -79.47902
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 271
-    graphics
-    [
-      x -53.98899
-      y 43.806664
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 272
-    graphics
-    [
-      x 64.39739
-      y 60.306828
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 273
-    graphics
-    [
-      x 66.922905
-      y 55.59791
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 274
-    graphics
-    [
-      x 25.27289
-      y 44.204994
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 275
-    graphics
-    [
-      x 10.255433
-      y 10.912179
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 276
-    graphics
-    [
-      x 41.738914
-      y 21.866043
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 277
-    graphics
-    [
-      x -32.248592
-      y 34.25781
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 278
-    graphics
-    [
-      x 20.02886
-      y 19.151337
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 279
-    graphics
-    [
-      x 26.049173
-      y 24.340467
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 280
-    graphics
-    [
-      x -0.41649634
-      y -38.676834
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 281
-    graphics
-    [
-      x -6.643098
-      y -72.632774
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 282
-    graphics
-    [
-      x 61.773056
-      y -68.17425
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 283
-    graphics
-    [
-      x 15.596611
-      y -48.722267
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 284
-    graphics
-    [
-      x -27.891207
-      y -32.660267
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 285
-    graphics
-    [
-      x 46.45826
-      y -90.00867
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 286
-    graphics
-    [
-      x 80.45057
-      y -120.92314
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 287
-    graphics
-    [
-      x -147.56905
-      y -85.74681
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 288
-    graphics
-    [
-      x -159.01143
-      y -92.65257
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 289
-    graphics
-    [
-      x -166.31883
-      y -103.71668
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 290
-    graphics
-    [
-      x -88.93287
-      y -83.32849
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 291
-    graphics
-    [
-      x -175.32738
-      y -98.45664
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 292
-    graphics
-    [
-      x -56.558765
-      y -73.31042
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 293
-    graphics
-    [
-      x -49.444916
-      y -65.07647
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 294
-    graphics
-    [
-      x -58.94021
-      y -79.65652
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 295
-    graphics
-    [
-      x -58.524582
-      y -65.945015
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 296
-    graphics
-    [
-      x -51.90158
-      y -56.567585
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 297
-    graphics
-    [
-      x -75.23185
-      y -106.98616
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 298
-    graphics
-    [
-      x -67.06895
-      y -86.38832
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 299
-    graphics
-    [
-      x -103.86135
-      y -92.81719
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 300
-    graphics
-    [
-      x 13.274661
-      y -80.75754
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 301
-    graphics
-    [
-      x -19.127968
-      y -58.536297
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 302
-    graphics
-    [
-      x -66.59483
-      y -68.83409
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 303
-    graphics
-    [
-      x -2.1181533
-      y -25.825798
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 304
-    graphics
-    [
-      x -75.98511
-      y 3.3321958
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 305
-    graphics
-    [
-      x -84.68927
-      y 10.673274
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 306
-    graphics
-    [
-      x 17.921562
-      y -76.712494
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 307
-    graphics
-    [
-      x -66.01561
-      y 19.485996
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 308
-    graphics
-    [
-      x -74.31214
-      y 10.401591
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 309
-    graphics
-    [
-      x -79.092155
-      y 21.2066
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 310
-    graphics
-    [
-      x -68.753685
-      y 0.5524895
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 311
-    graphics
-    [
-      x -68.564865
-      y -76.78418
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 312
-    graphics
-    [
-      x -99.18626
-      y -156.27812
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 313
-    graphics
-    [
-      x -128.87459
-      y 29.266369
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 314
-    graphics
-    [
-      x -12.046373
-      y -78.111244
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 315
-    graphics
-    [
-      x -9.043279
-      y 1.66207
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 316
-    graphics
-    [
-      x -69.59434
-      y -16.513382
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 317
-    graphics
-    [
-      x 5.256791
-      y -122.86248
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 318
-    graphics
-    [
-      x 0.8773159
-      y -124.84357
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 319
-    graphics
-    [
-      x -3.3639138
-      y -147.90915
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 320
-    graphics
-    [
-      x -44.901123
-      y -139.67041
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 321
-    graphics
-    [
-      x -38.740055
-      y -141.3838
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 322
-    graphics
-    [
-      x 27.065416
-      y -26.90721
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 323
-    graphics
-    [
-      x -160.13065
-      y -152.28879
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 324
-    graphics
-    [
-      x -184.3184
-      y -175.8898
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 325
-    graphics
-    [
-      x -131.04077
-      y -118.33402
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 326
-    graphics
-    [
-      x -21.62043
-      y -131.98203
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 327
-    graphics
-    [
-      x -36.0066
-      y -135.73387
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 328
-    graphics
-    [
-      x -35.851906
-      y -149.40967
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 329
-    graphics
-    [
-      x 7.5725365
-      y -191.21124
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 330
-    graphics
-    [
-      x -57.433006
-      y -128.55014
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 331
-    graphics
-    [
-      x -92.5259
-      y -132.1258
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 332
-    graphics
-    [
-      x -92.80954
-      y -120.35668
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 333
-    graphics
-    [
-      x -87.3859
-      y -120.84178
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 334
-    graphics
-    [
-      x -71.749626
-      y -135.63757
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 335
-    graphics
-    [
-      x -22.621794
-      y -138.46838
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 336
-    graphics
-    [
-      x -138.99019
-      y 25.583574
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 337
-    graphics
-    [
-      x -51.18607
-      y -83.31275
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 338
-    graphics
-    [
-      x -28.702549
-      y -132.35316
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 339
-    graphics
-    [
-      x -28.899504
-      y -140.54823
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 340
-    graphics
-    [
-      x -75.92844
-      y -61.849518
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 341
-    graphics
-    [
-      x -64.34435
-      y -122.190895
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 342
-    graphics
-    [
-      x 21.169102
-      y -170.32942
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 343
-    graphics
-    [
-      x 26.546934
-      y -167.41425
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 344
-    graphics
-    [
-      x 14.28236
-      y -3.4499433
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 345
-    graphics
-    [
-      x -10.462004
-      y -6.2804127
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 346
-    graphics
-    [
-      x 13.327934
-      y -19.276434
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 347
-    graphics
-    [
-      x 37.865337
-      y -35.756386
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 348
-    graphics
-    [
-      x 24.965836
-      y -48.935135
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 349
-    graphics
-    [
-      x 84.33326
-      y -33.024452
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 350
-    graphics
-    [
-      x 125.512985
-      y -50.75287
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
-  ]
-  node
-  [
-    id 351
-    graphics
-    [
-      x 60.44972
-      y -29.586145
-      z 0.0
-      w 10.0
-      h 10.0
-      d 10.0
-      fill "#999999"
-    ]
+    Description "Doctor to Valjean"
   ]
   edge
   [
-    id 1670
-    source 173
-    target 174
+    id 1
+    source 1
+    target 2
     label "1.1.1"
     value 1.0
     Label "1.1.1"
   ]
   edge
   [
-    id 1709
-    source 173
-    target 188
+    id 40
+    source 1
+    target 16
     label "1.1.8"
     value 2.0
     Label "1.1.8"
   ]
   edge
   [
-    id 1781
-    source 173
-    target 209
+    id 112
+    source 1
+    target 37
     label "1.2.12"
     value 1.0
     Label "1.2.12"
   ]
   edge
   [
-    id 1671
-    source 175
-    target 173
+    id 2
+    source 3
+    target 1
     label "1.1.1"
     value 11.0
     Label "1.1.1"
   ]
   edge
   [
-    id 1673
-    source 175
-    target 176
+    id 4
+    source 3
+    target 4
     label "1.1.1"
     value 7.0
     Label "1.1.1"
   ]
   edge
   [
-    id 1710
-    source 175
-    target 189
+    id 41
+    source 3
+    target 17
     label "1.1.9"
     value 2.0
     Label "1.1.9"
   ]
   edge
   [
-    id 1672
-    source 176
-    target 173
+    id 3
+    source 4
+    target 1
     label "1.1.1"
     value 9.0
     Label "1.1.1"
   ]
   edge
   [
-    id 1674
-    source 177
-    target 173
+    id 5
+    source 5
+    target 1
     label "1.1.2"
     value 1.0
     Label "1.1.2"
   ]
   edge
   [
-    id 1677
-    source 178
-    target 173
+    id 8
+    source 6
+    target 1
     label "1.1.2"
     value 1.0
     Label "1.1.2"
   ]
   edge
   [
-    id 2528
-    source 178
-    target 282
+    id 859
+    source 6
+    target 110
     label "3.2.8"
     value 1.0
     Label "3.2.8"
   ]
   edge
   [
-    id 2529
-    source 178
-    target 283
+    id 860
+    source 6
+    target 111
     label "3.2.8"
     value 3.0
     Label "3.2.8"
   ]
   edge
   [
-    id 4175
-    source 178
-    target 347
+    id 2506
+    source 6
+    target 175
     label "5.3.10"
     value 2.0
     Label "5.3.10"
   ]
   edge
   [
-    id 1682
-    source 179
-    target 173
+    id 13
+    source 7
+    target 1
     label "1.1.3"
     value 1.0
     Label "1.1.3"
   ]
   edge
   [
-    id 1685
-    source 180
-    target 173
+    id 16
+    source 8
+    target 1
     label "1.1.4"
     value 1.0
     Label "1.1.4"
   ]
   edge
   [
-    id 1686
-    source 181
-    target 173
+    id 17
+    source 9
+    target 1
     label "1.1.4"
     value 1.0
     Label "1.1.4"
   ]
   edge
   [
-    id 1687
-    source 182
-    target 173
+    id 18
+    source 10
+    target 1
     label "1.1.4"
     value 1.0
     Label "1.1.4"
   ]
   edge
   [
-    id 1690
-    source 183
-    target 173
+    id 21
+    source 11
+    target 1
     label "1.1.4"
     value 1.0
     Label "1.1.4"
   ]
   edge
   [
-    id 1699
-    source 184
-    target 173
+    id 30
+    source 12
+    target 1
     label "1.1.6"
     value 1.0
     Label "1.1.6"
   ]
   edge
   [
-    id 1700
-    source 185
-    target 173
+    id 31
+    source 13
+    target 1
     label "1.1.7"
     value 1.0
     Label "1.1.7"
   ]
   edge
   [
-    id 1701
-    source 186
-    target 173
+    id 32
+    source 14
+    target 1
     label "1.1.7"
     value 1.0
     Label "1.1.7"
   ]
   edge
   [
-    id 1702
-    source 187
-    target 173
+    id 33
+    source 15
+    target 1
     label "1.1.7"
     value 1.0
     Label "1.1.7"
   ]
   edge
   [
-    id 1712
-    source 190
-    target 173
+    id 43
+    source 18
+    target 1
     label "1.1.10"
     value 1.0
     Label "1.1.10"
   ]
   edge
   [
-    id 1711
-    source 190
-    target 191
+    id 42
+    source 18
+    target 19
     label "1.1.10"
     value 1.0
     Label "1.1.10"
   ]
   edge
   [
-    id 1715
-    source 192
-    target 193
+    id 46
+    source 20
+    target 21
     label "1.2.1"
     value 1.0
     Label "1.2.1"
   ]
   edge
   [
-    id 1738
-    source 193
-    target 173
+    id 69
+    source 21
+    target 1
     label "1.2.3"
     value 6.0
     Label "1.2.3"
   ]
   edge
   [
-    id 1737
-    source 193
-    target 175
+    id 68
+    source 21
+    target 3
     label "1.2.3"
     value 3.0
     Label "1.2.3"
   ]
   edge
   [
-    id 1736
-    source 193
-    target 176
+    id 67
+    source 21
+    target 4
     label "1.2.3"
     value 2.0
     Label "1.2.3"
   ]
   edge
   [
-    id 4239
-    source 193
-    target 178
+    id 2570
+    source 21
+    target 6
     label "5.5.4"
     value 2.0
     Label "5.5.4"
   ]
   edge
   [
-    id 1720
-    source 193
-    target 196
+    id 51
+    source 21
+    target 24
     label "1.2.1"
     value 2.0
     Label "1.2.1"
   ]
   edge
   [
-    id 1727
-    source 193
-    target 199
+    id 58
+    source 21
+    target 27
     label "1.2.1"
     value 1.0
     Label "1.2.1"
   ]
   edge
   [
-    id 1729
-    source 193
-    target 201
+    id 60
+    source 21
+    target 29
     label "1.2.1"
     value 1.0
     Label "1.2.1"
   ]
   edge
   [
-    id 1770
-    source 193
-    target 203
+    id 101
+    source 21
+    target 31
     label "1.2.6"
     value 1.0
     Label "1.2.6"
   ]
   edge
   [
-    id 1772
-    source 193
-    target 205
+    id 103
+    source 21
+    target 33
     label "1.2.6"
     value 1.0
     Label "1.2.6"
   ]
   edge
   [
-    id 1778
-    source 193
-    target 209
+    id 109
+    source 21
+    target 37
     label "1.2.12"
     value 1.0
     Label "1.2.12"
   ]
   edge
   [
-    id 1784
-    source 193
-    target 210
+    id 115
+    source 21
+    target 38
     label "1.2.13"
     value 1.0
     Label "1.2.13"
   ]
   edge
   [
-    id 1785
-    source 193
-    target 211
+    id 116
+    source 21
+    target 39
     label "1.2.13"
     value 1.0
     Label "1.2.13"
   ]
   edge
   [
-    id 2342
-    source 193
-    target 223
+    id 673
+    source 21
+    target 51
     label "2.3.8"
     value 11.0
     Label "2.3.8"
   ]
   edge
   [
-    id 2343
-    source 193
-    target 225
+    id 674
+    source 21
+    target 53
     label "2.3.8"
     value 20.0
     Label "2.3.8"
   ]
   edge
   [
-    id 2113
-    source 193
-    target 240
+    id 444
+    source 21
+    target 68
     label "1.7.1"
     value 3.0
     Label "1.7.1"
   ]
   edge
   [
-    id 2116
-    source 193
-    target 241
+    id 447
+    source 21
+    target 69
     label "1.7.2"
     value 1.0
     Label "1.7.2"
   ]
   edge
   [
-    id 2119
-    source 193
-    target 244
+    id 450
+    source 21
+    target 72
     label "1.7.4"
     value 2.0
     Label "1.7.4"
   ]
   edge
   [
-    id 2123
-    source 193
-    target 248
+    id 454
+    source 21
+    target 76
     label "1.7.5"
     value 1.0
     Label "1.7.5"
   ]
   edge
   [
-    id 2124
-    source 193
-    target 249
+    id 455
+    source 21
+    target 77
     label "1.7.5"
     value 1.0
     Label "1.7.5"
   ]
   edge
   [
-    id 2126
-    source 193
-    target 251
+    id 457
+    source 21
+    target 79
     label "1.7.5"
     value 2.0
     Label "1.7.5"
   ]
   edge
   [
-    id 2127
-    source 193
-    target 252
+    id 458
+    source 21
+    target 80
     label "1.7.5"
     value 1.0
     Label "1.7.5"
   ]
   edge
   [
-    id 2128
-    source 193
-    target 253
+    id 459
+    source 21
+    target 81
     label "1.7.5"
     value 1.0
     Label "1.7.5"
   ]
   edge
   [
-    id 2129
-    source 193
-    target 254
+    id 460
+    source 21
+    target 82
     label "1.7.5"
     value 1.0
     Label "1.7.5"
   ]
   edge
   [
-    id 2137
-    source 193
-    target 256
+    id 468
+    source 21
+    target 84
     label "1.7.7"
     value 1.0
     Label "1.7.7"
   ]
   edge
   [
-    id 2138
-    source 193
-    target 257
+    id 469
+    source 21
+    target 85
     label "1.7.7"
     value 1.0
     Label "1.7.7"
   ]
   edge
   [
-    id 2151
-    source 193
-    target 264
+    id 482
+    source 21
+    target 92
     label "1.7.9"
     value 3.0
     Label "1.7.9"
   ]
   edge
   [
-    id 2332
-    source 193
-    target 272
+    id 663
+    source 21
+    target 100
     label "2.3.6"
     value 1.0
     Label "2.3.6"
   ]
   edge
   [
-    id 2424
-    source 193
-    target 275
+    id 755
+    source 21
+    target 103
     label "2.4.4"
     value 3.0
     Label "2.4.4"
   ]
   edge
   [
-    id 2442
-    source 193
-    target 276
+    id 773
+    source 21
+    target 104
     label "2.5.2"
     value 1.0
     Label "2.5.2"
   ]
   edge
   [
-    id 2447
-    source 193
-    target 277
+    id 778
+    source 21
+    target 105
     label "2.5.5"
     value 1.0
     Label "2.5.5"
   ]
   edge
   [
-    id 2507
-    source 193
-    target 278
+    id 838
+    source 21
+    target 106
     label "2.8.8"
     value 1.0
     Label "2.8.8"
   ]
   edge
   [
-    id 2663
-    source 193
-    target 284
+    id 994
+    source 21
+    target 112
     label "3.6.1"
     value 37.0
     Label "3.6.1"
   ]
   edge
   [
-    id 3158
-    source 193
-    target 303
+    id 1489
+    source 21
+    target 131
     label "4.3.7"
     value 1.0
     Label "4.3.7"
   ]
   edge
   [
-    id 2896
-    source 193
-    target 305
+    id 1227
+    source 21
+    target 133
     label "3.8.20"
     value 2.0
     Label "3.8.20"
   ]
   edge
   [
-    id 2885
-    source 193
-    target 307
+    id 1216
+    source 21
+    target 135
     label "3.8.20"
     value 3.0
     Label "3.8.20"
   ]
   edge
   [
-    id 3134
-    source 193
-    target 315
+    id 1465
+    source 21
+    target 143
     label "4.3.1"
     value 6.0
     Label "4.3.1"
   ]
   edge
   [
-    id 3171
-    source 193
-    target 316
+    id 1502
+    source 21
+    target 144
     label "4.4.2"
     value 1.0
     Label "4.4.2"
   ]
   edge
   [
-    id 4131
-    source 193
-    target 344
+    id 2462
+    source 21
+    target 172
     label "5.3.1"
     value 2.0
     Label "5.3.1"
   ]
   edge
   [
-    id 4339
-    source 193
-    target 347
+    id 2670
+    source 21
+    target 175
     label "5.8.3"
     value 1.0
     Label "5.8.3"
   ]
   edge
   [
-    id 1716
-    source 194
-    target 193
+    id 47
+    source 22
+    target 21
     label "1.2.1"
     value 2.0
     Label "1.2.1"
   ]
   edge
   [
-    id 1717
-    source 194
-    target 195
+    id 48
+    source 22
+    target 23
     label "1.2.1"
     value 1.0
     Label "1.2.1"
   ]
   edge
   [
-    id 1721
-    source 197
-    target 193
+    id 52
+    source 25
+    target 21
     label "1.2.1"
     value 1.0
     Label "1.2.1"
   ]
   edge
   [
-    id 1722
-    source 197
-    target 194
+    id 53
+    source 25
+    target 22
     label "1.2.1"
     value 1.0
     Label "1.2.1"
   ]
   edge
   [
-    id 1723
-    source 197
-    target 196
+    id 54
+    source 25
+    target 24
     label "1.2.1"
     value 1.0
     Label "1.2.1"
   ]
   edge
   [
-    id 1726
-    source 198
-    target 193
+    id 57
+    source 26
+    target 21
     label "1.2.1"
     value 1.0
     Label "1.2.1"
   ]
   edge
   [
-    id 1728
-    source 199
-    target 200
+    id 59
+    source 27
+    target 28
     label "1.2.1"
     value 1.0
     Label "1.2.1"
   ]
   edge
   [
-    id 1769
-    source 202
-    target 193
+    id 100
+    source 30
+    target 21
     label "1.2.6"
     value 1.0
     Label "1.2.6"
   ]
   edge
   [
-    id 1773
-    source 202
-    target 206
+    id 104
+    source 30
+    target 34
     label "1.2.6"
     value 1.0
     Label "1.2.6"
   ]
   edge
   [
-    id 1771
-    source 204
-    target 193
+    id 102
+    source 32
+    target 21
     label "1.2.6"
     value 1.0
     Label "1.2.6"
   ]
   edge
   [
-    id 1774
-    source 206
-    target 207
+    id 105
+    source 34
+    target 35
     label "1.2.6"
     value 1.0
     Label "1.2.6"
   ]
   edge
   [
-    id 1775
-    source 208
-    target 193
+    id 106
+    source 36
+    target 21
     label "1.2.9"
     value 1.0
     Label "1.2.9"
   ]
   edge
   [
-    id 1786
-    source 212
-    target 213
+    id 117
+    source 40
+    target 41
     label "1.3.3"
     value 5.0
     Label "1.3.3"
   ]
   edge
   [
-    id 1789
-    source 212
-    target 216
+    id 120
+    source 40
+    target 44
     label "1.3.3"
     value 5.0
     Label "1.3.3"
   ]
   edge
   [
-    id 1791
-    source 212
-    target 218
+    id 122
+    source 40
+    target 46
     label "1.3.3"
     value 4.0
     Label "1.3.3"
   ]
   edge
   [
-    id 1797
-    source 213
-    target 218
+    id 128
+    source 41
+    target 46
     label "1.3.3"
     value 4.0
     Label "1.3.3"
   ]
   edge
   [
-    id 1787
-    source 214
-    target 212
+    id 118
+    source 42
+    target 40
     label "1.3.3"
     value 5.0
     Label "1.3.3"
   ]
   edge
   [
-    id 1793
-    source 214
-    target 213
+    id 124
+    source 42
+    target 41
     label "1.3.3"
     value 5.0
     Label "1.3.3"
   ]
   edge
   [
-    id 1800
-    source 214
-    target 216
+    id 131
+    source 42
+    target 44
     label "1.3.3"
     value 5.0
     Label "1.3.3"
   ]
   edge
   [
-    id 1802
-    source 214
-    target 218
+    id 133
+    source 42
+    target 46
     label "1.3.3"
     value 4.0
     Label "1.3.3"
   ]
   edge
   [
-    id 1803
-    source 214
-    target 219
+    id 134
+    source 42
+    target 47
     label "1.3.3"
     value 4.0
     Label "1.3.3"
   ]
   edge
   [
-    id 1788
-    source 215
-    target 212
+    id 119
+    source 43
+    target 40
     label "1.3.3"
     value 5.0
     Label "1.3.3"
   ]
   edge
   [
-    id 1794
-    source 215
-    target 213
+    id 125
+    source 43
+    target 41
     label "1.3.3"
     value 5.0
     Label "1.3.3"
   ]
   edge
   [
-    id 1799
-    source 215
-    target 214
+    id 130
+    source 43
+    target 42
     label "1.3.3"
     value 5.0
     Label "1.3.3"
   ]
   edge
   [
-    id 1804
-    source 215
-    target 216
+    id 135
+    source 43
+    target 44
     label "1.3.3"
     value 5.0
     Label "1.3.3"
   ]
   edge
   [
-    id 1805
-    source 215
-    target 217
+    id 136
+    source 43
+    target 45
     label "1.3.3"
     value 4.0
     Label "1.3.3"
   ]
   edge
   [
-    id 1806
-    source 215
-    target 218
+    id 137
+    source 43
+    target 46
     label "1.3.3"
     value 4.0
     Label "1.3.3"
   ]
   edge
   [
-    id 1807
-    source 215
-    target 219
+    id 138
+    source 43
+    target 47
     label "1.3.3"
     value 4.0
     Label "1.3.3"
   ]
   edge
   [
-    id 1795
-    source 216
-    target 213
+    id 126
+    source 44
+    target 41
     label "1.3.3"
     value 5.0
     Label "1.3.3"
   ]
   edge
   [
-    id 1809
-    source 216
-    target 218
+    id 140
+    source 44
+    target 46
     label "1.3.3"
     value 6.0
     Label "1.3.3"
   ]
   edge
   [
-    id 2014
-    source 216
-    target 220
+    id 345
+    source 44
+    target 48
     label "1.3.9"
     value 1.0
     Label "1.3.9"
   ]
   edge
   [
-    id 1790
-    source 217
-    target 212
+    id 121
+    source 45
+    target 40
     label "1.3.3"
     value 4.0
     Label "1.3.3"
   ]
   edge
   [
-    id 1796
-    source 217
-    target 213
+    id 127
+    source 45
+    target 41
     label "1.3.3"
     value 4.0
     Label "1.3.3"
   ]
   edge
   [
-    id 1801
-    source 217
-    target 214
+    id 132
+    source 45
+    target 42
     label "1.3.3"
     value 4.0
     Label "1.3.3"
   ]
   edge
   [
-    id 1808
-    source 217
-    target 216
+    id 139
+    source 45
+    target 44
     label "1.3.3"
     value 6.0
     Label "1.3.3"
   ]
   edge
   [
-    id 1811
-    source 217
-    target 218
+    id 142
+    source 45
+    target 46
     label "1.3.3"
     value 6.0
     Label "1.3.3"
   ]
   edge
   [
-    id 1812
-    source 217
-    target 219
+    id 143
+    source 45
+    target 47
     label "1.3.3"
     value 6.0
     Label "1.3.3"
   ]
   edge
   [
-    id 2015
-    source 217
-    target 220
+    id 346
+    source 45
+    target 48
     label "1.3.9"
     value 1.0
     Label "1.3.9"
   ]
   edge
   [
-    id 2093
-    source 219
-    target 193
+    id 424
+    source 47
+    target 21
     label "1.5.13"
     value 12.0
     Label "1.5.13"
   ]
   edge
   [
-    id 1792
-    source 219
-    target 212
+    id 123
+    source 47
+    target 40
     label "1.3.3"
     value 4.0
     Label "1.3.3"
   ]
   edge
   [
-    id 1798
-    source 219
-    target 213
+    id 129
+    source 47
+    target 41
     label "1.3.3"
     value 4.0
     Label "1.3.3"
   ]
   edge
   [
-    id 1810
-    source 219
-    target 216
+    id 141
+    source 47
+    target 44
     label "1.3.3"
     value 6.0
     Label "1.3.3"
   ]
   edge
   [
-    id 1813
-    source 219
-    target 218
+    id 144
+    source 47
+    target 46
     label "1.3.3"
     value 6.0
     Label "1.3.3"
   ]
   edge
   [
-    id 2017
-    source 219
-    target 220
+    id 348
+    source 47
+    target 48
     label "1.3.9"
     value 1.0
     Label "1.3.9"
   ]
   edge
   [
-    id 2033
-    source 219
-    target 223
+    id 364
+    source 47
+    target 51
     label "1.4.1"
     value 3.0
     Label "1.4.1"
   ]
   edge
   [
-    id 2043
-    source 219
-    target 225
+    id 374
+    source 47
+    target 53
     label "1.4.1"
     value 2.0
     Label "1.4.1"
   ]
   edge
   [
-    id 2048
-    source 219
-    target 226
+    id 379
+    source 47
+    target 54
     label "1.4.1"
     value 1.0
     Label "1.4.1"
   ]
   edge
   [
-    id 2087
-    source 219
-    target 229
+    id 418
+    source 47
+    target 57
     label "1.5.12"
     value 6.0
     Label "1.5.12"
   ]
   edge
   [
-    id 2079
-    source 219
-    target 230
+    id 410
+    source 47
+    target 58
     label "1.5.9"
     value 1.0
     Label "1.5.9"
   ]
   edge
   [
-    id 2073
-    source 219
-    target 231
+    id 404
+    source 47
+    target 59
     label "1.5.8"
     value 2.0
     Label "1.5.8"
   ]
   edge
   [
-    id 2078
-    source 219
-    target 234
+    id 409
+    source 47
+    target 62
     label "1.5.9"
     value 3.0
     Label "1.5.9"
   ]
   edge
   [
-    id 2083
-    source 219
-    target 236
+    id 414
+    source 47
+    target 64
     label "1.5.10"
     value 1.0
     Label "1.5.10"
   ]
   edge
   [
-    id 2130
-    source 219
-    target 240
+    id 461
+    source 47
+    target 68
     label "1.7.6"
     value 2.0
     Label "1.7.6"
   ]
   edge
   [
-    id 2133
-    source 219
-    target 255
+    id 464
+    source 47
+    target 83
     label "1.7.6"
     value 1.0
     Label "1.7.6"
   ]
   edge
   [
-    id 2016
-    source 220
-    target 218
+    id 347
+    source 48
+    target 46
     label "1.3.9"
     value 1.0
     Label "1.3.9"
   ]
   edge
   [
-    id 2773
-    source 221
-    target 193
+    id 1104
+    source 49
+    target 21
     label "3.8.9"
     value 3.0
     Label "3.8.9"
   ]
   edge
   [
-    id 2030
-    source 221
-    target 222
+    id 361
+    source 49
+    target 50
     label "1.4.1"
     value 11.0
     Label "1.4.1"
   ]
   edge
   [
-    id 2032
-    source 221
-    target 223
+    id 363
+    source 49
+    target 51
     label "1.4.1"
     value 6.0
     Label "1.4.1"
   ]
   edge
   [
-    id 2038
-    source 221
-    target 224
+    id 369
+    source 49
+    target 52
     label "1.4.1"
     value 5.0
     Label "1.4.1"
   ]
   edge
   [
-    id 2520
-    source 221
-    target 225
+    id 851
+    source 49
+    target 53
     label "3.1.13"
     value 10.0
     Label "3.1.13"
   ]
   edge
   [
-    id 2952
-    source 221
-    target 229
+    id 1283
+    source 49
+    target 57
     label "3.8.21"
     value 1.0
     Label "3.8.21"
   ]
   edge
   [
-    id 2318
-    source 221
-    target 270
+    id 649
+    source 49
+    target 98
     label "2.3.1"
     value 1.0
     Label "2.3.1"
   ]
   edge
   [
-    id 2792
-    source 222
-    target 193
+    id 1123
+    source 50
+    target 21
     label "3.8.9"
     value 2.0
     Label "3.8.9"
   ]
   edge
   [
-    id 2031
-    source 222
-    target 223
+    id 362
+    source 50
+    target 51
     label "1.4.1"
     value 8.0
     Label "1.4.1"
   ]
   edge
   [
-    id 2519
-    source 222
-    target 225
+    id 850
+    source 50
+    target 53
     label "3.1.13"
     value 8.0
     Label "3.1.13"
   ]
   edge
   [
-    id 4065
-    source 222
-    target 229
+    id 2396
+    source 50
+    target 57
     label "5.1.19"
     value 1.0
     Label "5.1.19"
   ]
   edge
   [
-    id 2317
-    source 222
-    target 270
+    id 648
+    source 50
+    target 98
     label "2.3.1"
     value 1.0
     Label "2.3.1"
   ]
   edge
   [
-    id 3120
-    source 222
-    target 281
+    id 1451
+    source 50
+    target 109
     label "4.2.2"
     value 3.0
     Label "4.2.2"
   ]
   edge
   [
-    id 2734
-    source 222
-    target 284
+    id 1065
+    source 50
+    target 112
     label "3.8.3"
     value 10.0
     Label "3.8.3"
   ]
   edge
   [
-    id 3129
-    source 222
-    target 290
+    id 1460
+    source 50
+    target 118
     label "4.2.3"
     value 1.0
     Label "4.2.3"
   ]
   edge
   [
-    id 3326
-    source 222
-    target 304
+    id 1657
+    source 50
+    target 132
     label "4.8.4"
     value 1.0
     Label "4.8.4"
   ]
   edge
   [
-    id 3329
-    source 222
-    target 305
+    id 1660
+    source 50
+    target 133
     label "4.8.4"
     value 1.0
     Label "4.8.4"
   ]
   edge
   [
-    id 3330
-    source 222
-    target 316
+    id 1661
+    source 50
+    target 144
     label "4.8.4"
     value 1.0
     Label "4.8.4"
   ]
   edge
   [
-    id 2065
-    source 223
-    target 230
+    id 396
+    source 51
+    target 58
     label "1.5.8"
     value 1.0
     Label "1.5.8"
   ]
   edge
   [
-    id 4291
-    source 224
-    target 178
+    id 2622
+    source 52
+    target 6
     label "5.6.2"
     value 1.0
     Label "5.6.2"
   ]
   edge
   [
-    id 2331
-    source 224
-    target 193
+    id 662
+    source 52
+    target 21
     label "2.3.5"
     value 62.0
     Label "2.3.5"
   ]
   edge
   [
-    id 2035
-    source 224
-    target 219
+    id 366
+    source 52
+    target 47
     label "1.4.1"
     value 2.0
     Label "1.4.1"
   ]
   edge
   [
-    id 2039
-    source 224
-    target 222
+    id 370
+    source 52
+    target 50
     label "1.4.1"
     value 4.0
     Label "1.4.1"
   ]
   edge
   [
-    id 2034
-    source 224
-    target 223
+    id 365
+    source 52
+    target 51
     label "1.4.1"
     value 13.0
     Label "1.4.1"
   ]
   edge
   [
-    id 2049
-    source 224
-    target 225
+    id 380
+    source 52
+    target 53
     label "1.4.3"
     value 5.0
     Label "1.4.3"
   ]
   edge
   [
-    id 2469
-    source 224
-    target 228
+    id 800
+    source 52
+    target 56
     label "2.5.9"
     value 3.0
     Label "2.5.9"
   ]
   edge
   [
-    id 3805
-    source 224
-    target 229
+    id 2136
+    source 52
+    target 57
     label "4.15.1"
     value 1.0
     Label "4.15.1"
   ]
   edge
   [
-    id 2066
-    source 224
-    target 230
+    id 397
+    source 52
+    target 58
     label "1.5.8"
     value 1.0
     Label "1.5.8"
   ]
   edge
   [
-    id 2314
-    source 224
-    target 270
+    id 645
+    source 52
+    target 98
     label "2.3.1"
     value 1.0
     Label "2.3.1"
   ]
   edge
   [
-    id 2324
-    source 224
-    target 271
+    id 655
+    source 52
+    target 99
     label "2.3.3"
     value 1.0
     Label "2.3.3"
   ]
   edge
   [
-    id 2425
-    source 224
-    target 275
+    id 756
+    source 52
+    target 103
     label "2.4.4"
     value 1.0
     Label "2.4.4"
   ]
   edge
   [
-    id 2508
-    source 224
-    target 278
+    id 839
+    source 52
+    target 106
     label "2.8.8"
     value 1.0
     Label "2.8.8"
   ]
   edge
   [
-    id 4244
-    source 224
-    target 280
+    id 2575
+    source 52
+    target 108
     label "5.5.6"
     value 3.0
     Label "5.5.6"
   ]
   edge
   [
-    id 3177
-    source 224
-    target 283
+    id 1508
+    source 52
+    target 111
     label "4.5.1"
     value 1.0
     Label "4.5.1"
   ]
   edge
   [
-    id 2621
-    source 224
-    target 284
+    id 952
+    source 52
+    target 112
     label "3.4.5"
     value 34.0
     Label "3.4.5"
   ]
   edge
   [
-    id 2613
-    source 224
-    target 293
+    id 944
+    source 52
+    target 121
     label "3.4.4"
     value 3.0
     Label "3.4.4"
   ]
   edge
   [
-    id 2624
-    source 224
-    target 296
+    id 955
+    source 52
+    target 124
     label "3.4.5"
     value 3.0
     Label "3.4.5"
   ]
   edge
   [
-    id 3410
-    source 224
-    target 302
+    id 1741
+    source 52
+    target 130
     label "4.11.4"
     value 1.0
     Label "4.11.4"
   ]
   edge
   [
-    id 3409
-    source 224
-    target 311
+    id 1740
+    source 52
+    target 139
     label "4.11.4"
     value 1.0
     Label "4.11.4"
   ]
   edge
   [
-    id 3135
-    source 224
-    target 315
+    id 1466
+    source 52
+    target 143
     label "4.3.1"
     value 6.0
     Label "4.3.1"
   ]
   edge
   [
-    id 4220
-    source 224
-    target 346
+    id 2551
+    source 52
+    target 174
     label "5.5.4"
     value 1.0
     Label "5.5.4"
   ]
   edge
   [
-    id 2042
-    source 225
-    target 223
+    id 373
+    source 53
+    target 51
     label "1.4.1"
     value 32.0
     Label "1.4.1"
   ]
   edge
   [
-    id 2064
-    source 225
-    target 230
+    id 395
+    source 53
+    target 58
     label "1.5.8"
     value 1.0
     Label "1.5.8"
   ]
   edge
   [
-    id 2060
-    source 227
-    target 193
+    id 391
+    source 55
+    target 21
     label "1.5.4"
     value 1.0
     Label "1.5.4"
   ]
   edge
   [
-    id 2061
-    source 228
-    target 193
+    id 392
+    source 56
+    target 21
     label "1.5.6"
     value 9.0
     Label "1.5.6"
   ]
   edge
   [
-    id 2063
-    source 228
-    target 229
+    id 394
+    source 56
+    target 57
     label "1.5.6"
     value 1.0
     Label "1.5.6"
   ]
   edge
   [
-    id 2489
-    source 228
-    target 278
+    id 820
+    source 56
+    target 106
     label "2.8.2"
     value 4.0
     Label "2.8.2"
   ]
   edge
   [
-    id 2496
-    source 228
-    target 279
+    id 827
+    source 56
+    target 107
     label "2.8.5"
     value 3.0
     Label "2.8.5"
   ]
   edge
   [
-    id 2062
-    source 229
-    target 193
+    id 393
+    source 57
+    target 21
     label "1.5.6"
     value 24.0
     Label "1.5.6"
   ]
   edge
   [
-    id 2475
-    source 229
-    target 223
+    id 806
+    source 57
+    target 51
     label "2.5.10"
     value 3.0
     Label "2.5.10"
   ]
   edge
   [
-    id 2474
-    source 229
-    target 225
+    id 805
+    source 57
+    target 53
     label "2.5.10"
     value 5.0
     Label "2.5.10"
   ]
   edge
   [
-    id 2088
-    source 229
-    target 238
+    id 419
+    source 57
+    target 66
     label "1.5.13"
     value 1.0
     Label "1.5.13"
   ]
   edge
   [
-    id 2304
-    source 229
-    target 240
+    id 635
+    source 57
+    target 68
     label "1.8.5"
     value 1.0
     Label "1.8.5"
   ]
   edge
   [
-    id 2303
-    source 229
-    target 244
+    id 634
+    source 57
+    target 72
     label "1.8.5"
     value 1.0
     Label "1.8.5"
   ]
   edge
   [
-    id 2280
-    source 229
-    target 264
+    id 611
+    source 57
+    target 92
     label "1.8.3"
     value 1.0
     Label "1.8.3"
   ]
   edge
   [
-    id 2478
-    source 229
-    target 275
+    id 809
+    source 57
+    target 103
     label "2.5.10"
     value 1.0
     Label "2.5.10"
   ]
   edge
   [
-    id 2450
-    source 229
-    target 277
+    id 781
+    source 57
+    target 105
     label "2.5.5"
     value 3.0
     Label "2.5.5"
   ]
   edge
   [
-    id 2820
-    source 229
-    target 284
+    id 1151
+    source 57
+    target 112
     label "3.8.14"
     value 4.0
     Label "3.8.14"
   ]
   edge
   [
-    id 2962
-    source 229
-    target 305
+    id 1293
+    source 57
+    target 133
     label "3.8.21"
     value 2.0
     Label "3.8.21"
   ]
   edge
   [
-    id 2957
-    source 229
-    target 307
+    id 1288
+    source 57
+    target 135
     label "3.8.21"
     value 3.0
     Label "3.8.21"
   ]
   edge
   [
-    id 3806
-    source 229
-    target 315
+    id 2137
+    source 57
+    target 143
     label "4.15.1"
     value 1.0
     Label "4.15.1"
   ]
   edge
   [
-    id 2076
-    source 232
-    target 219
+    id 407
+    source 60
+    target 47
     label "1.5.9"
     value 1.0
     Label "1.5.9"
   ]
   edge
   [
-    id 2077
-    source 233
-    target 219
+    id 408
+    source 61
+    target 47
     label "1.5.9"
     value 1.0
     Label "1.5.9"
   ]
   edge
   [
-    id 2082
-    source 235
-    target 219
+    id 413
+    source 63
+    target 47
     label "1.5.10"
     value 1.0
     Label "1.5.10"
   ]
   edge
   [
-    id 2146
-    source 237
-    target 193
+    id 477
+    source 65
+    target 21
     label "1.7.9"
     value 2.0
     Label "1.7.9"
   ]
   edge
   [
-    id 2086
-    source 237
-    target 219
+    id 417
+    source 65
+    target 47
     label "1.5.12"
     value 1.0
     Label "1.5.12"
   ]
   edge
   [
-    id 2152
-    source 237
-    target 261
+    id 483
+    source 65
+    target 89
     label "1.7.9"
     value 2.0
     Label "1.7.9"
   ]
   edge
   [
-    id 2153
-    source 237
-    target 262
+    id 484
+    source 65
+    target 90
     label "1.7.9"
     value 1.0
     Label "1.7.9"
   ]
   edge
   [
-    id 2154
-    source 237
-    target 263
+    id 485
+    source 65
+    target 91
     label "1.7.9"
     value 1.0
     Label "1.7.9"
   ]
   edge
   [
-    id 2155
-    source 237
-    target 264
+    id 486
+    source 65
+    target 92
     label "1.7.9"
     value 2.0
     Label "1.7.9"
   ]
   edge
   [
-    id 2197
-    source 237
-    target 265
+    id 528
+    source 65
+    target 93
     label "1.7.10"
     value 1.0
     Label "1.7.10"
   ]
   edge
   [
-    id 2203
-    source 237
-    target 266
+    id 534
+    source 65
+    target 94
     label "1.7.10"
     value 1.0
     Label "1.7.10"
   ]
   edge
   [
-    id 2207
-    source 237
-    target 267
+    id 538
+    source 65
+    target 95
     label "1.7.10"
     value 1.0
     Label "1.7.10"
   ]
   edge
   [
-    id 2106
-    source 239
-    target 193
+    id 437
+    source 67
+    target 21
     label "1.6.1"
     value 2.0
     Label "1.6.1"
   ]
   edge
   [
-    id 2131
-    source 239
-    target 219
+    id 462
+    source 67
+    target 47
     label "1.7.6"
     value 3.0
     Label "1.7.6"
   ]
   edge
   [
-    id 2136
-    source 239
-    target 240
+    id 467
+    source 67
+    target 68
     label "1.7.6"
     value 1.0
     Label "1.7.6"
   ]
   edge
   [
-    id 2117
-    source 241
-    target 242
+    id 448
+    source 69
+    target 70
     label "1.7.2"
     value 1.0
     Label "1.7.2"
   ]
   edge
   [
-    id 2118
-    source 243
-    target 244
+    id 449
+    source 71
+    target 72
     label "1.7.2"
     value 1.0
     Label "1.7.2"
   ]
   edge
   [
-    id 2120
-    source 245
-    target 193
+    id 451
+    source 73
+    target 21
     label "1.7.5"
     value 1.0
     Label "1.7.5"
   ]
   edge
   [
-    id 2121
-    source 246
-    target 193
+    id 452
+    source 74
+    target 21
     label "1.7.5"
     value 1.0
     Label "1.7.5"
   ]
   edge
   [
-    id 2122
-    source 247
-    target 193
+    id 453
+    source 75
+    target 21
     label "1.7.5"
     value 1.0
     Label "1.7.5"
   ]
   edge
   [
-    id 2125
-    source 250
-    target 193
+    id 456
+    source 78
+    target 21
     label "1.7.5"
     value 1.0
     Label "1.7.5"
   ]
   edge
   [
-    id 2132
-    source 255
-    target 240
+    id 463
+    source 83
+    target 68
     label "1.7.6"
     value 1.0
     Label "1.7.6"
   ]
   edge
   [
-    id 2139
-    source 258
-    target 193
+    id 470
+    source 86
+    target 21
     label "1.7.7"
     value 1.0
     Label "1.7.7"
   ]
   edge
   [
-    id 2140
-    source 259
-    target 193
+    id 471
+    source 87
+    target 21
     label "1.7.7"
     value 1.0
     Label "1.7.7"
   ]
   edge
   [
-    id 2141
-    source 260
-    target 193
+    id 472
+    source 88
+    target 21
     label "1.7.7"
     value 2.0
     Label "1.7.7"
   ]
   edge
   [
-    id 2142
-    source 260
-    target 261
+    id 473
+    source 88
+    target 89
     label "1.7.8"
     value 2.0
     Label "1.7.8"
   ]
   edge
   [
-    id 2147
-    source 261
-    target 193
+    id 478
+    source 89
+    target 21
     label "1.7.9"
     value 3.0
     Label "1.7.9"
   ]
   edge
   [
-    id 2158
-    source 261
-    target 264
+    id 489
+    source 89
+    target 92
     label "1.7.9"
     value 5.0
     Label "1.7.9"
   ]
   edge
   [
-    id 2145
-    source 262
-    target 193
+    id 476
+    source 90
+    target 21
     label "1.7.9"
     value 3.0
     Label "1.7.9"
   ]
   edge
   [
-    id 2156
-    source 262
-    target 261
+    id 487
+    source 90
+    target 89
     label "1.7.9"
     value 5.0
     Label "1.7.9"
   ]
   edge
   [
-    id 2159
-    source 262
-    target 263
+    id 490
+    source 90
+    target 91
     label "1.7.9"
     value 1.0
     Label "1.7.9"
   ]
   edge
   [
-    id 2160
-    source 262
-    target 264
+    id 491
+    source 90
+    target 92
     label "1.7.9"
     value 4.0
     Label "1.7.9"
   ]
   edge
   [
-    id 2179
-    source 262
-    target 266
+    id 510
+    source 90
+    target 94
     label "1.7.10"
     value 2.0
     Label "1.7.10"
   ]
   edge
   [
-    id 2150
-    source 263
-    target 193
+    id 481
+    source 91
+    target 21
     label "1.7.9"
     value 1.0
     Label "1.7.9"
   ]
   edge
   [
-    id 2157
-    source 263
-    target 261
+    id 488
+    source 91
+    target 89
     label "1.7.9"
     value 1.0
     Label "1.7.9"
   ]
   edge
   [
-    id 2161
-    source 263
-    target 264
+    id 492
+    source 91
+    target 92
     label "1.7.9"
     value 1.0
     Label "1.7.9"
   ]
   edge
   [
-    id 2181
-    source 265
-    target 193
+    id 512
+    source 93
+    target 21
     label "1.7.10"
     value 2.0
     Label "1.7.10"
   ]
   edge
   [
-    id 2170
-    source 265
-    target 261
+    id 501
+    source 93
+    target 89
     label "1.7.10"
     value 3.0
     Label "1.7.10"
   ]
   edge
   [
-    id 2177
-    source 265
-    target 262
+    id 508
+    source 93
+    target 90
     label "1.7.10"
     value 2.0
     Label "1.7.10"
   ]
   edge
   [
-    id 2196
-    source 265
-    target 264
+    id 527
+    source 93
+    target 92
     label "1.7.10"
     value 2.0
     Label "1.7.10"
   ]
   edge
   [
-    id 2175
-    source 265
-    target 266
+    id 506
+    source 93
+    target 94
     label "1.7.10"
     value 3.0
     Label "1.7.10"
   ]
   edge
   [
-    id 2176
-    source 265
-    target 267
+    id 507
+    source 93
+    target 95
     label "1.7.10"
     value 3.0
     Label "1.7.10"
   ]
   edge
   [
-    id 2182
-    source 266
-    target 193
+    id 513
+    source 94
+    target 21
     label "1.7.10"
     value 2.0
     Label "1.7.10"
   ]
   edge
   [
-    id 2171
-    source 266
-    target 261
+    id 502
+    source 94
+    target 89
     label "1.7.10"
     value 3.0
     Label "1.7.10"
   ]
   edge
   [
-    id 2202
-    source 266
-    target 264
+    id 533
+    source 94
+    target 92
     label "1.7.10"
     value 2.0
     Label "1.7.10"
   ]
   edge
   [
-    id 2183
-    source 267
-    target 193
+    id 514
+    source 95
+    target 21
     label "1.7.10"
     value 2.0
     Label "1.7.10"
   ]
   edge
   [
-    id 2172
-    source 267
-    target 261
+    id 503
+    source 95
+    target 89
     label "1.7.10"
     value 3.0
     Label "1.7.10"
   ]
   edge
   [
-    id 2180
-    source 267
-    target 262
+    id 511
+    source 95
+    target 90
     label "1.7.10"
     value 2.0
     Label "1.7.10"
   ]
   edge
   [
-    id 2206
-    source 267
-    target 264
+    id 537
+    source 95
+    target 92
     label "1.7.10"
     value 2.0
     Label "1.7.10"
   ]
   edge
   [
-    id 2178
-    source 267
-    target 266
+    id 509
+    source 95
+    target 94
     label "1.7.10"
     value 3.0
     Label "1.7.10"
   ]
   edge
   [
-    id 2543
-    source 268
-    target 174
+    id 874
+    source 96
+    target 2
     label "3.3.2"
     value 1.0
     Label "3.3.2"
   ]
   edge
   [
-    id 2305
-    source 268
-    target 225
+    id 636
+    source 96
+    target 53
     label "2.1.19"
     value 1.0
     Label "2.1.19"
   ]
   edge
   [
-    id 2547
-    source 268
-    target 284
+    id 878
+    source 96
+    target 112
     label "3.3.2"
     value 2.0
     Label "3.3.2"
   ]
   edge
   [
-    id 2541
-    source 268
-    target 287
+    id 872
+    source 96
+    target 115
     label "3.3.2"
     value 2.0
     Label "3.3.2"
   ]
   edge
   [
-    id 2544
-    source 268
-    target 289
+    id 875
+    source 96
+    target 117
     label "3.3.2"
     value 1.0
     Label "3.3.2"
   ]
   edge
   [
-    id 2550
-    source 268
-    target 290
+    id 881
+    source 96
+    target 118
     label "3.3.2"
     value 2.0
     Label "3.3.2"
   ]
   edge
   [
-    id 2307
-    source 269
-    target 193
+    id 638
+    source 97
+    target 21
     label "2.2.2"
     value 2.0
     Label "2.2.2"
   ]
   edge
   [
-    id 2306
-    source 269
-    target 225
+    id 637
+    source 97
+    target 53
     label "2.2.2"
     value 2.0
     Label "2.2.2"
   ]
   edge
   [
-    id 2864
-    source 269
-    target 307
+    id 1195
+    source 97
+    target 135
     label "3.8.19"
     value 2.0
     Label "3.8.19"
   ]
   edge
   [
-    id 2868
-    source 269
-    target 309
+    id 1199
+    source 97
+    target 137
     label "3.8.19"
     value 1.0
     Label "3.8.19"
   ]
   edge
   [
-    id 3170
-    source 270
-    target 193
+    id 1501
+    source 98
+    target 21
     label "4.4.2"
     value 3.0
     Label "4.4.2"
   ]
   edge
   [
-    id 3283
-    source 270
-    target 225
+    id 1614
+    source 98
+    target 53
     label "4.6.3"
     value 1.0
     Label "4.6.3"
   ]
   edge
   [
-    id 3579
-    source 270
-    target 229
+    id 1910
+    source 98
+    target 57
     label "4.12.7"
     value 2.0
     Label "4.12.7"
   ]
   edge
   [
-    id 3770
-    source 270
-    target 284
+    id 2101
+    source 98
+    target 112
     label "4.14.5"
     value 5.0
     Label "4.14.5"
   ]
   edge
   [
-    id 3174
-    source 270
-    target 290
+    id 1505
+    source 98
+    target 118
     label "4.4.2"
     value 2.0
     Label "4.4.2"
   ]
   edge
   [
-    id 3660
-    source 270
-    target 298
+    id 1991
+    source 98
+    target 126
     label "4.14.1"
     value 2.0
     Label "4.14.1"
   ]
   edge
   [
-    id 3686
-    source 270
-    target 302
+    id 2017
+    source 98
+    target 130
     label "4.14.3"
     value 1.0
     Label "4.14.3"
   ]
   edge
   [
-    id 3298
-    source 270
-    target 304
+    id 1629
+    source 98
+    target 132
     label "4.6.3"
     value 1.0
     Label "4.6.3"
   ]
   edge
   [
-    id 3169
-    source 270
-    target 316
+    id 1500
+    source 98
+    target 144
     label "4.4.2"
     value 5.0
     Label "4.4.2"
   ]
   edge
   [
-    id 3209
-    source 270
-    target 317
+    id 1540
+    source 98
+    target 145
     label "4.6.2"
     value 3.0
     Label "4.6.2"
   ]
   edge
   [
-    id 3210
-    source 270
-    target 318
+    id 1541
+    source 98
+    target 146
     label "4.6.2"
     value 3.0
     Label "4.6.2"
   ]
   edge
   [
-    id 3219
-    source 270
-    target 320
+    id 1550
+    source 98
+    target 148
     label "4.6.2"
     value 1.0
     Label "4.6.2"
   ]
   edge
   [
-    id 3380
-    source 270
-    target 326
+    id 1711
+    source 98
+    target 154
     label "4.11.1"
     value 1.0
     Label "4.11.1"
   ]
   edge
   [
-    id 3382
-    source 270
-    target 327
+    id 1713
+    source 98
+    target 155
     label "4.11.2"
     value 2.0
     Label "4.11.2"
   ]
   edge
   [
-    id 3383
-    source 270
-    target 328
+    id 1714
+    source 98
+    target 156
     label "4.11.2"
     value 1.0
     Label "4.11.2"
   ]
   edge
   [
-    id 3674
-    source 270
-    target 337
+    id 2005
+    source 98
+    target 165
     label "4.14.1"
     value 5.0
     Label "4.14.1"
   ]
   edge
   [
-    id 3816
-    source 270
-    target 339
+    id 2147
+    source 98
+    target 167
     label "4.15.4"
     value 1.0
     Label "4.15.4"
   ]
   edge
   [
-    id 2323
-    source 271
-    target 223
+    id 654
+    source 99
+    target 51
     label "2.3.3"
     value 1.0
     Label "2.3.3"
   ]
   edge
   [
-    id 2333
-    source 273
-    target 193
+    id 664
+    source 101
+    target 21
     label "2.3.6"
     value 1.0
     Label "2.3.6"
   ]
   edge
   [
-    id 2334
-    source 273
-    target 272
+    id 665
+    source 101
+    target 100
     label "2.3.6"
     value 1.0
     Label "2.3.6"
   ]
   edge
   [
-    id 2335
-    source 274
-    target 193
+    id 666
+    source 102
+    target 21
     label "2.3.6"
     value 1.0
     Label "2.3.6"
   ]
   edge
   [
-    id 2530
-    source 280
-    target 178
+    id 861
+    source 108
+    target 6
     label "3.2.8"
     value 13.0
     Label "3.2.8"
   ]
   edge
   [
-    id 4232
-    source 280
-    target 193
+    id 2563
+    source 108
+    target 21
     label "5.5.4"
     value 5.0
     Label "5.5.4"
   ]
   edge
   [
-    id 2527
-    source 280
-    target 281
+    id 858
+    source 108
+    target 109
     label "3.2.6"
     value 2.0
     Label "3.2.6"
   ]
   edge
   [
-    id 2656
-    source 280
-    target 283
+    id 987
+    source 108
+    target 111
     label "3.5.6"
     value 2.0
     Label "3.5.6"
   ]
   edge
   [
-    id 2532
-    source 280
-    target 284
+    id 863
+    source 108
+    target 112
     label "3.2.8"
     value 20.0
     Label "3.2.8"
   ]
   edge
   [
-    id 3190
-    source 280
-    target 317
+    id 1521
+    source 108
+    target 145
     label "4.6.1"
     value 1.0
     Label "4.6.1"
   ]
   edge
   [
-    id 3191
-    source 280
-    target 318
+    id 1522
+    source 108
+    target 146
     label "4.6.1"
     value 1.0
     Label "4.6.1"
   ]
   edge
   [
-    id 4229
-    source 280
-    target 347
+    id 2560
+    source 108
+    target 175
     label "5.5.4"
     value 1.0
     Label "5.5.4"
   ]
   edge
   [
-    id 3184
-    source 281
-    target 223
+    id 1515
+    source 109
+    target 51
     label "4.6.1"
     value 1.0
     Label "4.6.1"
   ]
   edge
   [
-    id 3185
-    source 281
-    target 317
+    id 1516
+    source 109
+    target 145
     label "4.6.1"
     value 2.0
     Label "4.6.1"
   ]
   edge
   [
-    id 3186
-    source 281
-    target 318
+    id 1517
+    source 109
+    target 146
     label "4.6.1"
     value 2.0
     Label "4.6.1"
   ]
   edge
   [
-    id 2531
-    source 284
-    target 178
+    id 862
+    source 112
+    target 6
     label "3.2.8"
     value 6.0
     Label "3.2.8"
   ]
   edge
   [
-    id 2827
-    source 284
-    target 225
+    id 1158
+    source 112
+    target 53
     label "3.8.15"
     value 3.0
     Label "3.8.15"
   ]
   edge
   [
-    id 2584
-    source 284
-    target 283
+    id 915
+    source 112
+    target 111
     label "3.3.7"
     value 1.0
     Label "3.3.7"
   ]
   edge
   [
-    id 2559
-    source 284
-    target 287
+    id 890
+    source 112
+    target 115
     label "3.3.4"
     value 1.0
     Label "3.3.4"
   ]
   edge
   [
-    id 2555
-    source 284
-    target 290
+    id 886
+    source 112
+    target 118
     label "3.3.2"
     value 4.0
     Label "3.3.2"
   ]
   edge
   [
-    id 2651
-    source 284
-    target 300
+    id 982
+    source 112
+    target 128
     label "3.5.5"
     value 1.0
     Label "3.5.5"
   ]
   edge
   [
-    id 2722
-    source 284
-    target 303
+    id 1053
+    source 112
+    target 131
     label "3.6.9"
     value 2.0
     Label "3.6.9"
   ]
   edge
   [
-    id 4132
-    source 284
-    target 344
+    id 2463
+    source 112
+    target 172
     label "5.3.1"
     value 1.0
     Label "5.3.1"
   ]
   edge
   [
-    id 2533
-    source 285
-    target 280
+    id 864
+    source 113
+    target 108
     label "3.3.1"
     value 1.0
     Label "3.3.1"
   ]
   edge
   [
-    id 2556
-    source 285
-    target 284
+    id 887
+    source 113
+    target 112
     label "3.3.3"
     value 1.0
     Label "3.3.3"
   ]
   edge
   [
-    id 2534
-    source 285
-    target 286
+    id 865
+    source 113
+    target 114
     label "3.3.1"
     value 1.0
     Label "3.3.1"
   ]
   edge
   [
-    id 2542
-    source 288
-    target 268
+    id 873
+    source 116
+    target 96
     label "3.3.2"
     value 3.0
     Label "3.3.2"
   ]
   edge
   [
-    id 2566
-    source 288
-    target 287
+    id 897
+    source 116
+    target 115
     label "3.3.4"
     value 1.0
     Label "3.3.4"
   ]
   edge
   [
-    id 2565
-    source 288
-    target 291
+    id 896
+    source 116
+    target 119
     label "3.3.4"
     value 1.0
     Label "3.3.4"
   ]
   edge
   [
-    id 2646
-    source 290
-    target 299
+    id 977
+    source 118
+    target 127
     label "3.5.4"
     value 4.0
     Label "3.5.4"
   ]
   edge
   [
-    id 3377
-    source 290
-    target 323
+    id 1708
+    source 118
+    target 151
     label "4.9.3"
     value 1.0
     Label "4.9.3"
   ]
   edge
   [
-    id 2562
-    source 291
-    target 268
+    id 893
+    source 119
+    target 96
     label "3.3.4"
     value 1.0
     Label "3.3.4"
   ]
   edge
   [
-    id 2567
-    source 291
-    target 287
+    id 898
+    source 119
+    target 115
     label "3.3.4"
     value 1.0
     Label "3.3.4"
   ]
   edge
   [
-    id 3952
-    source 292
-    target 193
+    id 2283
+    source 120
+    target 21
     label "5.1.9"
     value 2.0
     Label "5.1.9"
   ]
   edge
   [
-    id 2614
-    source 292
-    target 224
+    id 945
+    source 120
+    target 52
     label "3.4.5"
     value 1.0
     Label "3.4.5"
   ]
   edge
   [
-    id 3653
-    source 292
-    target 270
+    id 1984
+    source 120
+    target 98
     label "4.14.1"
     value 4.0
     Label "4.14.1"
   ]
   edge
   [
-    id 2593
-    source 292
-    target 284
+    id 924
+    source 120
+    target 112
     label "3.4.2"
     value 7.0
     Label "3.4.2"
   ]
   edge
   [
-    id 3656
-    source 292
-    target 290
+    id 1987
+    source 120
+    target 118
     label "4.14.1"
     value 1.0
     Label "4.14.1"
   ]
   edge
   [
-    id 2597
-    source 292
-    target 293
+    id 928
+    source 120
+    target 121
     label "3.4.2"
     value 14.0
     Label "3.4.2"
   ]
   edge
   [
-    id 3089
-    source 292
-    target 295
+    id 1420
+    source 120
+    target 123
     label "4.1.6"
     value 11.0
     Label "4.1.6"
   ]
   edge
   [
-    id 2619
-    source 292
-    target 296
+    id 950
+    source 120
+    target 124
     label "3.4.5"
     value 14.0
     Label "3.4.5"
   ]
   edge
   [
-    id 2609
-    source 292
-    target 297
+    id 940
+    source 120
+    target 125
     label "3.4.4"
     value 2.0
     Label "3.4.4"
   ]
   edge
   [
-    id 3097
-    source 292
-    target 298
+    id 1428
+    source 120
+    target 126
     label "4.1.6"
     value 10.0
     Label "4.1.6"
   ]
   edge
   [
-    id 3096
-    source 292
-    target 302
+    id 1427
+    source 120
+    target 130
     label "4.1.6"
     value 3.0
     Label "4.1.6"
   ]
   edge
   [
-    id 3084
-    source 292
-    target 311
+    id 1415
+    source 120
+    target 139
     label "4.1.6"
     value 7.0
     Label "4.1.6"
   ]
   edge
   [
-    id 3454
-    source 292
-    target 332
+    id 1785
+    source 120
+    target 160
     label "4.12.2"
     value 1.0
     Label "4.12.2"
   ]
   edge
   [
-    id 3455
-    source 292
-    target 333
+    id 1786
+    source 120
+    target 161
     label "4.12.2"
     value 1.0
     Label "4.12.2"
   ]
   edge
   [
-    id 3466
-    source 292
-    target 334
+    id 1797
+    source 120
+    target 162
     label "4.12.2"
     value 1.0
     Label "4.12.2"
   ]
   edge
   [
-    id 3657
-    source 292
-    target 337
+    id 1988
+    source 120
+    target 165
     label "4.14.1"
     value 4.0
     Label "4.14.1"
   ]
   edge
   [
-    id 3848
-    source 292
-    target 340
+    id 2179
+    source 120
+    target 168
     label "5.1.2"
     value 1.0
     Label "5.1.2"
   ]
   edge
   [
-    id 3448
-    source 293
-    target 222
+    id 1779
+    source 121
+    target 50
     label "4.11.6"
     value 3.0
     Label "4.11.6"
   ]
   edge
   [
-    id 3442
-    source 293
-    target 229
+    id 1773
+    source 121
+    target 57
     label "4.11.6"
     value 1.0
     Label "4.11.6"
   ]
   edge
   [
-    id 3419
-    source 293
-    target 270
+    id 1750
+    source 121
+    target 98
     label "4.11.4"
     value 9.0
     Label "4.11.4"
   ]
   edge
   [
-    id 2596
-    source 293
-    target 284
+    id 927
+    source 121
+    target 112
     label "3.4.2"
     value 18.0
     Label "3.4.2"
   ]
   edge
   [
-    id 3435
-    source 293
-    target 290
+    id 1766
+    source 121
+    target 118
     label "4.11.5"
     value 3.0
     Label "4.11.5"
   ]
   edge
   [
-    id 2606
-    source 293
-    target 296
+    id 937
+    source 121
+    target 124
     label "3.4.3"
     value 21.0
     Label "3.4.3"
   ]
   edge
   [
-    id 3494
-    source 293
-    target 297
+    id 1825
+    source 121
+    target 125
     label "4.12.3"
     value 1.0
     Label "4.12.3"
   ]
   edge
   [
-    id 3077
-    source 293
-    target 298
+    id 1408
+    source 121
+    target 126
     label "4.1.6"
     value 7.0
     Label "4.1.6"
   ]
   edge
   [
-    id 2703
-    source 293
-    target 302
+    id 1034
+    source 121
+    target 130
     label "3.6.6"
     value 6.0
     Label "3.6.6"
   ]
   edge
   [
-    id 3071
-    source 293
-    target 311
+    id 1402
+    source 121
+    target 139
     label "4.1.6"
     value 6.0
     Label "4.1.6"
   ]
   edge
   [
-    id 3447
-    source 293
-    target 330
+    id 1778
+    source 121
+    target 158
     label "4.11.6"
     value 1.0
     Label "4.11.6"
   ]
   edge
   [
-    id 3501
-    source 293
-    target 331
+    id 1832
+    source 121
+    target 159
     label "4.12.4"
     value 1.0
     Label "4.12.4"
   ]
   edge
   [
-    id 3648
-    source 293
-    target 337
+    id 1979
+    source 121
+    target 165
     label "4.14.1"
     value 5.0
     Label "4.14.1"
   ]
   edge
   [
-    id 3851
-    source 293
-    target 340
+    id 2182
+    source 121
+    target 168
     label "5.1.2"
     value 2.0
     Label "5.1.2"
   ]
   edge
   [
-    id 2625
-    source 294
-    target 224
+    id 956
+    source 122
+    target 52
     label "3.4.5"
     value 2.0
     Label "3.4.5"
   ]
   edge
   [
-    id 3424
-    source 294
-    target 270
+    id 1755
+    source 122
+    target 98
     label "4.11.4"
     value 5.0
     Label "4.11.4"
   ]
   edge
   [
-    id 2600
-    source 294
-    target 284
+    id 931
+    source 122
+    target 112
     label "3.4.3"
     value 2.0
     Label "3.4.3"
   ]
   edge
   [
-    id 3669
-    source 294
-    target 290
+    id 2000
+    source 122
+    target 118
     label "4.14.1"
     value 1.0
     Label "4.14.1"
   ]
   edge
   [
-    id 2620
-    source 294
-    target 292
+    id 951
+    source 122
+    target 120
     label "3.4.5"
     value 5.0
     Label "3.4.5"
   ]
   edge
   [
-    id 2634
-    source 294
-    target 293
+    id 965
+    source 122
+    target 121
     label "3.4.5"
     value 8.0
     Label "3.4.5"
   ]
   edge
   [
-    id 2602
-    source 294
-    target 295
+    id 933
+    source 122
+    target 123
     label "3.4.3"
     value 5.0
     Label "3.4.3"
   ]
   edge
   [
-    id 2635
-    source 294
-    target 296
+    id 966
+    source 122
+    target 124
     label "3.4.5"
     value 7.0
     Label "3.4.5"
   ]
   edge
   [
-    id 2612
-    source 294
-    target 297
+    id 943
+    source 122
+    target 125
     label "3.4.4"
     value 1.0
     Label "3.4.4"
   ]
   edge
   [
-    id 2610
-    source 294
-    target 298
+    id 941
+    source 122
+    target 126
     label "3.4.4"
     value 5.0
     Label "3.4.4"
   ]
   edge
   [
-    id 3090
-    source 294
-    target 302
+    id 1421
+    source 122
+    target 130
     label "4.1.6"
     value 4.0
     Label "4.1.6"
   ]
   edge
   [
-    id 3081
-    source 294
-    target 311
+    id 1412
+    source 122
+    target 139
     label "4.1.6"
     value 5.0
     Label "4.1.6"
   ]
   edge
   [
-    id 3500
-    source 294
-    target 331
+    id 1831
+    source 122
+    target 159
     label "4.12.4"
     value 1.0
     Label "4.12.4"
   ]
   edge
   [
-    id 3670
-    source 294
-    target 337
+    id 2001
+    source 122
+    target 165
     label "4.14.1"
     value 2.0
     Label "4.14.1"
   ]
   edge
   [
-    id 3944
-    source 295
-    target 193
+    id 2275
+    source 123
+    target 21
     label "5.1.9"
     value 2.0
     Label "5.1.9"
   ]
   edge
   [
-    id 3446
-    source 295
-    target 229
+    id 1777
+    source 123
+    target 57
     label "4.11.6"
     value 1.0
     Label "4.11.6"
   ]
   edge
   [
-    id 3514
-    source 295
-    target 270
+    id 1845
+    source 123
+    target 98
     label "4.12.4"
     value 5.0
     Label "4.12.4"
   ]
   edge
   [
-    id 2601
-    source 295
-    target 284
+    id 932
+    source 123
+    target 112
     label "3.4.3"
     value 5.0
     Label "3.4.3"
   ]
   edge
   [
-    id 3434
-    source 295
-    target 290
+    id 1765
+    source 123
+    target 118
     label "4.11.5"
     value 2.0
     Label "4.11.5"
   ]
   edge
   [
-    id 3072
-    source 295
-    target 293
+    id 1403
+    source 123
+    target 121
     label "4.1.6"
     value 14.0
     Label "4.1.6"
   ]
   edge
   [
-    id 3064
-    source 295
-    target 296
+    id 1395
+    source 123
+    target 124
     label "4.1.6"
     value 22.0
     Label "4.1.6"
   ]
   edge
   [
-    id 3088
-    source 295
-    target 298
+    id 1419
+    source 123
+    target 126
     label "4.1.6"
     value 7.0
     Label "4.1.6"
   ]
   edge
   [
-    id 3087
-    source 295
-    target 302
+    id 1418
+    source 123
+    target 130
     label "4.1.6"
     value 6.0
     Label "4.1.6"
   ]
   edge
   [
-    id 3080
-    source 295
-    target 311
+    id 1411
+    source 123
+    target 139
     label "4.1.6"
     value 7.0
     Label "4.1.6"
   ]
   edge
   [
-    id 3635
-    source 295
-    target 337
+    id 1966
+    source 123
+    target 165
     label "4.14.1"
     value 5.0
     Label "4.14.1"
   ]
   edge
   [
-    id 3843
-    source 295
-    target 340
+    id 2174
+    source 123
+    target 168
     label "5.1.2"
     value 3.0
     Label "5.1.2"
   ]
   edge
   [
-    id 3887
-    source 296
-    target 193
+    id 2218
+    source 124
+    target 21
     label "5.1.4"
     value 6.0
     Label "5.1.4"
   ]
   edge
   [
-    id 3445
-    source 296
-    target 229
+    id 1776
+    source 124
+    target 57
     label "4.11.6"
     value 10.0
     Label "4.11.6"
   ]
   edge
   [
-    id 3515
-    source 296
-    target 270
+    id 1846
+    source 124
+    target 98
     label "4.12.4"
     value 7.0
     Label "4.12.4"
   ]
   edge
   [
-    id 2603
-    source 296
-    target 284
+    id 934
+    source 124
+    target 112
     label "3.4.3"
     value 14.0
     Label "3.4.3"
   ]
   edge
   [
-    id 3431
-    source 296
-    target 290
+    id 1762
+    source 124
+    target 118
     label "4.11.5"
     value 2.0
     Label "4.11.5"
   ]
   edge
   [
-    id 3098
-    source 296
-    target 297
+    id 1429
+    source 124
+    target 125
     label "4.1.6"
     value 4.0
     Label "4.1.6"
   ]
   edge
   [
-    id 3068
-    source 296
-    target 298
+    id 1399
+    source 124
+    target 126
     label "4.1.6"
     value 6.0
     Label "4.1.6"
   ]
   edge
   [
-    id 3067
-    source 296
-    target 302
+    id 1398
+    source 124
+    target 130
     label "4.1.6"
     value 7.0
     Label "4.1.6"
   ]
   edge
   [
-    id 3589
-    source 296
-    target 305
+    id 1920
+    source 124
+    target 133
     label "4.12.8"
     value 1.0
     Label "4.12.8"
   ]
   edge
   [
-    id 3063
-    source 296
-    target 311
+    id 1394
+    source 124
+    target 139
     label "4.1.6"
     value 8.0
     Label "4.1.6"
   ]
   edge
   [
-    id 3486
-    source 296
-    target 332
+    id 1817
+    source 124
+    target 160
     label "4.12.3"
     value 1.0
     Label "4.12.3"
   ]
   edge
   [
-    id 3487
-    source 296
-    target 333
+    id 1818
+    source 124
+    target 161
     label "4.12.3"
     value 1.0
     Label "4.12.3"
   ]
   edge
   [
-    id 3620
-    source 296
-    target 337
+    id 1951
+    source 124
+    target 165
     label "4.14.1"
     value 8.0
     Label "4.14.1"
   ]
   edge
   [
-    id 3827
-    source 296
-    target 340
+    id 2158
+    source 124
+    target 168
     label "5.1.2"
     value 3.0
     Label "5.1.2"
   ]
   edge
   [
-    id 3855
-    source 296
-    target 341
+    id 2186
+    source 124
+    target 169
     label "5.1.3"
     value 1.0
     Label "5.1.3"
   ]
   edge
   [
-    id 2611
-    source 297
-    target 298
+    id 942
+    source 125
+    target 126
     label "3.4.4"
     value 3.0
     Label "3.4.4"
   ]
   edge
   [
-    id 3467
-    source 297
-    target 331
+    id 1798
+    source 125
+    target 159
     label "4.12.2"
     value 1.0
     Label "4.12.2"
   ]
   edge
   [
-    id 3495
-    source 297
-    target 332
+    id 1826
+    source 125
+    target 160
     label "4.12.3"
     value 1.0
     Label "4.12.3"
   ]
   edge
   [
-    id 4124
-    source 297
-    target 337
+    id 2455
+    source 125
+    target 165
     label "5.1.23"
     value 1.0
     Label "5.1.23"
   ]
   edge
   [
-    id 4092
-    source 298
-    target 284
+    id 2423
+    source 126
+    target 112
     label "5.1.21"
     value 1.0
     Label "5.1.21"
   ]
   edge
   [
-    id 3663
-    source 298
-    target 290
+    id 1994
+    source 126
+    target 118
     label "4.14.1"
     value 1.0
     Label "4.14.1"
   ]
   edge
   [
-    id 3095
-    source 298
-    target 302
+    id 1426
+    source 126
+    target 130
     label "4.1.6"
     value 3.0
     Label "4.1.6"
   ]
   edge
   [
-    id 3456
-    source 298
-    target 332
+    id 1787
+    source 126
+    target 160
     label "4.12.2"
     value 2.0
     Label "4.12.2"
   ]
   edge
   [
-    id 3106
-    source 301
-    target 229
+    id 1437
+    source 129
+    target 57
     label "4.2.1"
     value 1.0
     Label "4.2.1"
   ]
   edge
   [
-    id 3060
-    source 301
-    target 270
+    id 1391
+    source 129
+    target 98
     label "3.8.22"
     value 1.0
     Label "3.8.22"
   ]
   edge
   [
-    id 2685
-    source 301
-    target 284
+    id 1016
+    source 129
+    target 112
     label "3.6.5"
     value 2.0
     Label "3.6.5"
   ]
   edge
   [
-    id 2684
-    source 301
-    target 293
+    id 1015
+    source 129
+    target 121
     label "3.6.5"
     value 1.0
     Label "3.6.5"
   ]
   edge
   [
-    id 2702
-    source 302
-    target 284
+    id 1033
+    source 130
+    target 112
     label "3.6.6"
     value 1.0
     Label "3.6.6"
   ]
   edge
   [
-    id 2894
-    source 304
-    target 193
+    id 1225
+    source 132
+    target 21
     label "3.8.20"
     value 1.0
     Label "3.8.20"
   ]
   edge
   [
-    id 2977
-    source 304
-    target 223
+    id 1308
+    source 132
+    target 51
     label "3.8.21"
     value 1.0
     Label "3.8.21"
   ]
   edge
   [
-    id 2884
-    source 304
-    target 225
+    id 1215
+    source 132
+    target 53
     label "3.8.20"
     value 6.0
     Label "3.8.20"
   ]
   edge
   [
-    id 2960
-    source 304
-    target 229
+    id 1291
+    source 132
+    target 57
     label "3.8.21"
     value 2.0
     Label "3.8.21"
   ]
   edge
   [
-    id 2731
-    source 304
-    target 305
+    id 1062
+    source 132
+    target 133
     label "3.7.3"
     value 7.0
     Label "3.7.3"
   ]
   edge
   [
-    id 2901
-    source 304
-    target 307
+    id 1232
+    source 132
+    target 135
     label "3.8.20"
     value 3.0
     Label "3.8.20"
   ]
   edge
   [
-    id 3252
-    source 304
-    target 316
+    id 1583
+    source 132
+    target 144
     label "4.6.3"
     value 4.0
     Label "4.6.3"
   ]
   edge
   [
-    id 2979
-    source 305
-    target 223
+    id 1310
+    source 133
+    target 51
     label "3.8.21"
     value 1.0
     Label "3.8.21"
   ]
   edge
   [
-    id 2973
-    source 305
-    target 225
+    id 1304
+    source 133
+    target 53
     label "3.8.21"
     value 2.0
     Label "3.8.21"
   ]
   edge
   [
-    id 2799
-    source 306
-    target 284
+    id 1130
+    source 134
+    target 112
     label "3.8.10"
     value 1.0
     Label "3.8.10"
   ]
   edge
   [
-    id 2974
-    source 307
-    target 223
+    id 1305
+    source 135
+    target 51
     label "3.8.21"
     value 1.0
     Label "3.8.21"
   ]
   edge
   [
-    id 2800
-    source 307
-    target 225
+    id 1131
+    source 135
+    target 53
     label "3.8.10"
     value 7.0
     Label "3.8.10"
   ]
   edge
   [
-    id 2903
-    source 307
-    target 305
+    id 1234
+    source 135
+    target 133
     label "3.8.20"
     value 3.0
     Label "3.8.20"
   ]
   edge
   [
-    id 2892
-    source 308
-    target 193
+    id 1223
+    source 136
+    target 21
     label "3.8.20"
     value 1.0
     Label "3.8.20"
   ]
   edge
   [
-    id 3325
-    source 308
-    target 222
+    id 1656
+    source 136
+    target 50
     label "4.8.4"
     value 1.0
     Label "4.8.4"
   ]
   edge
   [
-    id 2975
-    source 308
-    target 223
+    id 1306
+    source 136
+    target 51
     label "3.8.21"
     value 1.0
     Label "3.8.21"
   ]
   edge
   [
-    id 2967
-    source 308
-    target 225
+    id 1298
+    source 136
+    target 53
     label "3.8.21"
     value 6.0
     Label "3.8.21"
   ]
   edge
   [
-    id 2958
-    source 308
-    target 229
+    id 1289
+    source 136
+    target 57
     label "3.8.21"
     value 2.0
     Label "3.8.21"
   ]
   edge
   [
-    id 2867
-    source 308
-    target 269
+    id 1198
+    source 136
+    target 97
     label "3.8.19"
     value 1.0
     Label "3.8.19"
   ]
   edge
   [
-    id 3295
-    source 308
-    target 270
+    id 1626
+    source 136
+    target 98
     label "4.6.3"
     value 1.0
     Label "4.6.3"
   ]
   edge
   [
-    id 2817
-    source 308
-    target 284
+    id 1148
+    source 136
+    target 112
     label "3.8.13"
     value 1.0
     Label "3.8.13"
   ]
   edge
   [
-    id 2906
-    source 308
-    target 304
+    id 1237
+    source 136
+    target 132
     label "3.8.20"
     value 10.0
     Label "3.8.20"
   ]
   edge
   [
-    id 2908
-    source 308
-    target 305
+    id 1239
+    source 136
+    target 133
     label "3.8.20"
     value 4.0
     Label "3.8.20"
   ]
   edge
   [
-    id 2862
-    source 308
-    target 307
+    id 1193
+    source 136
+    target 135
     label "3.8.19"
     value 5.0
     Label "3.8.19"
   ]
   edge
   [
-    id 2819
-    source 308
-    target 309
+    id 1150
+    source 136
+    target 137
     label "3.8.13"
     value 6.0
     Label "3.8.13"
   ]
   edge
   [
-    id 3115
-    source 308
-    target 313
+    id 1446
+    source 136
+    target 141
     label "4.2.2"
     value 1.0
     Label "4.2.2"
   ]
   edge
   [
-    id 3249
-    source 308
-    target 316
+    id 1580
+    source 136
+    target 144
     label "4.6.3"
     value 4.0
     Label "4.6.3"
   ]
   edge
   [
-    id 2893
-    source 309
-    target 193
+    id 1224
+    source 137
+    target 21
     label "3.8.20"
     value 1.0
     Label "3.8.20"
   ]
   edge
   [
-    id 2976
-    source 309
-    target 223
+    id 1307
+    source 137
+    target 51
     label "3.8.21"
     value 1.0
     Label "3.8.21"
   ]
   edge
   [
-    id 2968
-    source 309
-    target 225
+    id 1299
+    source 137
+    target 53
     label "3.8.21"
     value 1.0
     Label "3.8.21"
   ]
   edge
   [
-    id 2959
-    source 309
-    target 229
+    id 1290
+    source 137
+    target 57
     label "3.8.21"
     value 2.0
     Label "3.8.21"
   ]
   edge
   [
-    id 2818
-    source 309
-    target 284
+    id 1149
+    source 137
+    target 112
     label "3.8.13"
     value 1.0
     Label "3.8.13"
   ]
   edge
   [
-    id 2909
-    source 309
-    target 304
+    id 1240
+    source 137
+    target 132
     label "3.8.20"
     value 3.0
     Label "3.8.20"
   ]
   edge
   [
-    id 2911
-    source 309
-    target 305
+    id 1242
+    source 137
+    target 133
     label "3.8.20"
     value 3.0
     Label "3.8.20"
   ]
   edge
   [
-    id 2863
-    source 309
-    target 307
+    id 1194
+    source 137
+    target 135
     label "3.8.19"
     value 5.0
     Label "3.8.19"
   ]
   edge
   [
-    id 2895
-    source 310
-    target 193
+    id 1226
+    source 138
+    target 21
     label "3.8.20"
     value 1.0
     Label "3.8.20"
   ]
   edge
   [
-    id 3123
-    source 310
-    target 222
+    id 1454
+    source 138
+    target 50
     label "4.2.2"
     value 2.0
     Label "4.2.2"
   ]
   edge
   [
-    id 2978
-    source 310
-    target 223
+    id 1309
+    source 138
+    target 51
     label "3.8.21"
     value 1.0
     Label "3.8.21"
   ]
   edge
   [
-    id 2875
-    source 310
-    target 225
+    id 1206
+    source 138
+    target 53
     label "3.8.20"
     value 8.0
     Label "3.8.20"
   ]
   edge
   [
-    id 2961
-    source 310
-    target 229
+    id 1292
+    source 138
+    target 57
     label "3.8.21"
     value 2.0
     Label "3.8.21"
   ]
   edge
   [
-    id 3290
-    source 310
-    target 270
+    id 1621
+    source 138
+    target 98
     label "4.6.3"
     value 1.0
     Label "4.6.3"
   ]
   edge
   [
-    id 3124
-    source 310
-    target 281
+    id 1455
+    source 138
+    target 109
     label "4.2.2"
     value 1.0
     Label "4.2.2"
   ]
   edge
   [
-    id 2871
-    source 310
-    target 304
+    id 1202
+    source 138
+    target 132
     label "3.8.20"
     value 10.0
     Label "3.8.20"
   ]
   edge
   [
-    id 2872
-    source 310
-    target 305
+    id 1203
+    source 138
+    target 133
     label "3.8.20"
     value 5.0
     Label "3.8.20"
   ]
   edge
   [
-    id 2902
-    source 310
-    target 307
+    id 1233
+    source 138
+    target 135
     label "3.8.20"
     value 3.0
     Label "3.8.20"
   ]
   edge
   [
-    id 2907
-    source 310
-    target 308
+    id 1238
+    source 138
+    target 136
     label "3.8.20"
     value 11.0
     Label "3.8.20"
   ]
   edge
   [
-    id 2910
-    source 310
-    target 309
+    id 1241
+    source 138
+    target 137
     label "3.8.20"
     value 3.0
     Label "3.8.20"
   ]
   edge
   [
-    id 3118
-    source 310
-    target 314
+    id 1449
+    source 138
+    target 142
     label "4.2.2"
     value 1.0
     Label "4.2.2"
   ]
   edge
   [
-    id 3253
-    source 310
-    target 316
+    id 1584
+    source 138
+    target 144
     label "4.6.3"
     value 4.0
     Label "4.6.3"
   ]
   edge
   [
-    id 3671
-    source 311
-    target 270
+    id 2002
+    source 139
+    target 98
     label "4.14.1"
     value 1.0
     Label "4.14.1"
   ]
   edge
   [
-    id 4046
-    source 311
-    target 284
+    id 2377
+    source 139
+    target 112
     label "5.1.18"
     value 2.0
     Label "5.1.18"
   ]
   edge
   [
-    id 3675
-    source 311
-    target 290
+    id 2006
+    source 139
+    target 118
     label "4.14.1"
     value 1.0
     Label "4.14.1"
   ]
   edge
   [
-    id 3083
-    source 311
-    target 298
+    id 1414
+    source 139
+    target 126
     label "4.1.6"
     value 6.0
     Label "4.1.6"
   ]
   edge
   [
-    id 3082
-    source 311
-    target 302
+    id 1413
+    source 139
+    target 130
     label "4.1.6"
     value 3.0
     Label "4.1.6"
   ]
   edge
   [
-    id 3488
-    source 311
-    target 332
+    id 1819
+    source 139
+    target 160
     label "4.12.3"
     value 1.0
     Label "4.12.3"
   ]
   edge
   [
-    id 3489
-    source 311
-    target 333
+    id 1820
+    source 139
+    target 161
     label "4.12.3"
     value 1.0
     Label "4.12.3"
   ]
   edge
   [
-    id 3676
-    source 311
-    target 337
+    id 2007
+    source 139
+    target 165
     label "4.14.1"
     value 1.0
     Label "4.14.1"
   ]
   edge
   [
-    id 3836
-    source 311
-    target 340
+    id 2167
+    source 139
+    target 168
     label "5.1.2"
     value 1.0
     Label "5.1.2"
   ]
   edge
   [
-    id 3101
-    source 312
-    target 297
+    id 1432
+    source 140
+    target 125
     label "4.1.6"
     value 1.0
     Label "4.1.6"
   ]
   edge
   [
-    id 3119
-    source 314
-    target 281
+    id 1450
+    source 142
+    target 109
     label "4.2.2"
     value 1.0
     Label "4.2.2"
   ]
   edge
   [
-    id 3272
-    source 316
-    target 225
+    id 1603
+    source 144
+    target 53
     label "4.6.3"
     value 3.0
     Label "4.6.3"
   ]
   edge
   [
-    id 3359
-    source 316
-    target 305
+    id 1690
+    source 144
+    target 133
     label "4.8.4"
     value 1.0
     Label "4.8.4"
   ]
   edge
   [
-    id 3189
-    source 317
-    target 318
+    id 1520
+    source 145
+    target 146
     label "4.6.1"
     value 9.0
     Label "4.6.1"
   ]
   edge
   [
-    id 3204
-    source 319
-    target 270
+    id 1535
+    source 147
+    target 98
     label "4.6.2"
     value 2.0
     Label "4.6.2"
   ]
   edge
   [
-    id 3207
-    source 319
-    target 317
+    id 1538
+    source 147
+    target 145
     label "4.6.2"
     value 1.0
     Label "4.6.2"
   ]
   edge
   [
-    id 3208
-    source 319
-    target 318
+    id 1539
+    source 147
+    target 146
     label "4.6.2"
     value 1.0
     Label "4.6.2"
   ]
   edge
   [
-    id 3388
-    source 319
-    target 329
+    id 1719
+    source 147
+    target 157
     label "4.11.3"
     value 1.0
     Label "4.11.3"
   ]
   edge
   [
-    id 3220
-    source 321
-    target 270
+    id 1551
+    source 149
+    target 98
     label "4.6.2"
     value 1.0
     Label "4.6.2"
   ]
   edge
   [
-    id 4189
-    source 322
-    target 178
+    id 2520
+    source 150
+    target 6
     label "5.3.12"
     value 1.0
     Label "5.3.12"
   ]
   edge
   [
-    id 4316
-    source 322
-    target 193
+    id 2647
+    source 150
+    target 21
     label "5.7.1"
     value 3.0
     Label "5.7.1"
   ]
   edge
   [
-    id 3364
-    source 322
-    target 280
+    id 1695
+    source 150
+    target 108
     label "4.8.7"
     value 2.0
     Label "4.8.7"
   ]
   edge
   [
-    id 4188
-    source 322
-    target 284
+    id 2519
+    source 150
+    target 112
     label "5.3.12"
     value 1.0
     Label "5.3.12"
   ]
   edge
   [
-    id 4173
-    source 322
-    target 346
+    id 2504
+    source 150
+    target 174
     label "5.3.10"
     value 2.0
     Label "5.3.10"
   ]
   edge
   [
-    id 4174
-    source 322
-    target 347
+    id 2505
+    source 150
+    target 175
     label "5.3.10"
     value 2.0
     Label "5.3.10"
   ]
   edge
   [
-    id 4190
-    source 322
-    target 348
+    id 2521
+    source 150
+    target 176
     label "5.3.12"
     value 1.0
     Label "5.3.12"
   ]
   edge
   [
-    id 3378
-    source 323
-    target 324
+    id 1709
+    source 151
+    target 152
     label "4.9.3"
     value 1.0
     Label "4.9.3"
   ]
   edge
   [
-    id 3379
-    source 325
-    target 290
+    id 1710
+    source 153
+    target 118
     label "4.9.3"
     value 1.0
     Label "4.9.3"
   ]
   edge
   [
-    id 3381
-    source 327
-    target 328
+    id 1712
+    source 155
+    target 156
     label "4.11.2"
     value 2.0
     Label "4.11.2"
   ]
   edge
   [
-    id 3449
-    source 331
-    target 332
+    id 1780
+    source 159
+    target 160
     label "4.12.1"
     value 2.0
     Label "4.12.1"
   ]
   edge
   [
-    id 3457
-    source 333
-    target 298
+    id 1788
+    source 161
+    target 126
     label "4.12.2"
     value 2.0
     Label "4.12.2"
   ]
   edge
   [
-    id 3450
-    source 333
-    target 331
+    id 1781
+    source 161
+    target 159
     label "4.12.1"
     value 2.0
     Label "4.12.1"
   ]
   edge
   [
-    id 3451
-    source 333
-    target 332
+    id 1782
+    source 161
+    target 160
     label "4.12.1"
     value 5.0
     Label "4.12.1"
   ]
   edge
   [
-    id 3518
-    source 335
-    target 270
+    id 1849
+    source 163
+    target 98
     label "4.12.4"
     value 1.0
     Label "4.12.4"
   ]
   edge
   [
-    id 3588
-    source 336
-    target 305
+    id 1919
+    source 164
+    target 133
     label "4.12.8"
     value 1.0
     Label "4.12.8"
   ]
   edge
   [
-    id 3947
-    source 337
-    target 193
+    id 2278
+    source 165
+    target 21
     label "5.1.9"
     value 1.0
     Label "5.1.9"
   ]
   edge
   [
-    id 4119
-    source 337
-    target 284
+    id 2450
+    source 165
+    target 112
     label "5.1.22"
     value 1.0
     Label "5.1.22"
   ]
   edge
   [
-    id 3677
-    source 337
-    target 290
+    id 2008
+    source 165
+    target 118
     label "4.14.1"
     value 1.0
     Label "4.14.1"
   ]
   edge
   [
-    id 3664
-    source 337
-    target 298
+    id 1995
+    source 165
+    target 126
     label "4.14.1"
     value 1.0
     Label "4.14.1"
   ]
   edge
   [
-    id 3763
-    source 337
-    target 302
+    id 2094
+    source 165
+    target 130
     label "4.14.4"
     value 1.0
     Label "4.14.4"
   ]
   edge
   [
-    id 3815
-    source 338
-    target 270
+    id 2146
+    source 166
+    target 98
     label "4.15.4"
     value 1.0
     Label "4.15.4"
   ]
   edge
   [
-    id 3862
-    source 340
-    target 284
+    id 2193
+    source 168
+    target 112
     label "5.1.4"
     value 2.0
     Label "5.1.4"
   ]
   edge
   [
-    id 3852
-    source 340
-    target 298
+    id 2183
+    source 168
+    target 126
     label "5.1.2"
     value 1.0
     Label "5.1.2"
   ]
   edge
   [
-    id 3989
-    source 342
-    target 317
+    id 2320
+    source 170
+    target 145
     label "5.1.16"
     value 1.0
     Label "5.1.16"
   ]
   edge
   [
-    id 3991
-    source 342
-    target 318
+    id 2322
+    source 170
+    target 146
     label "5.1.16"
     value 1.0
     Label "5.1.16"
   ]
   edge
   [
-    id 3993
-    source 342
-    target 343
+    id 2324
+    source 170
+    target 171
     label "5.1.16"
     value 1.0
     Label "5.1.16"
   ]
   edge
   [
-    id 3990
-    source 343
-    target 317
+    id 2321
+    source 171
+    target 145
     label "5.1.16"
     value 1.0
     Label "5.1.16"
   ]
   edge
   [
-    id 3992
-    source 343
-    target 318
+    id 2323
+    source 171
+    target 146
     label "5.1.16"
     value 1.0
     Label "5.1.16"
   ]
   edge
   [
-    id 4165
-    source 345
-    target 193
+    id 2496
+    source 173
+    target 21
     label "5.3.10"
     value 1.0
     Label "5.3.10"
   ]
   edge
   [
-    id 4139
-    source 345
-    target 229
+    id 2470
+    source 173
+    target 57
     label "5.3.3"
     value 4.0
     Label "5.3.3"
   ]
   edge
   [
-    id 4168
-    source 345
-    target 284
+    id 2499
+    source 173
+    target 112
     label "5.3.10"
     value 1.0
     Label "5.3.10"
   ]
   edge
   [
-    id 4192
-    source 346
-    target 178
+    id 2523
+    source 174
+    target 6
     label "5.3.12"
     value 1.0
     Label "5.3.12"
   ]
   edge
   [
-    id 4211
-    source 346
-    target 193
+    id 2542
+    source 174
+    target 21
     label "5.5.2"
     value 2.0
     Label "5.5.2"
   ]
   edge
   [
-    id 4164
-    source 346
-    target 229
+    id 2495
+    source 174
+    target 57
     label "5.3.10"
     value 2.0
     Label "5.3.10"
   ]
   edge
   [
-    id 4191
-    source 346
-    target 284
+    id 2522
+    source 174
+    target 112
     label "5.3.12"
     value 2.0
     Label "5.3.12"
   ]
   edge
   [
-    id 4193
-    source 346
-    target 348
+    id 2524
+    source 174
+    target 176
     label "5.3.12"
     value 1.0
     Label "5.3.12"
   ]
   edge
   [
-    id 4197
-    source 348
+    id 2528
+    source 176
+    target 6
+    label "5.3.12"
+    value 1.0
+    Label "5.3.12"
+  ]
+  edge
+  [
+    id 2531
+    source 176
+    target 108
+    label "5.3.12"
+    value 2.0
+    Label "5.3.12"
+  ]
+  edge
+  [
+    id 2527
+    source 176
+    target 112
+    label "5.3.12"
+    value 2.0
+    Label "5.3.12"
+  ]
+  edge
+  [
+    id 2673
+    source 177
+    target 21
+    label "5.9.2"
+    value 1.0
+    Label "5.9.2"
+  ]
+  edge
+  [
+    id 2674
+    source 177
     target 178
-    label "5.3.12"
-    value 1.0
-    Label "5.3.12"
-  ]
-  edge
-  [
-    id 4200
-    source 348
-    target 280
-    label "5.3.12"
-    value 2.0
-    Label "5.3.12"
-  ]
-  edge
-  [
-    id 4196
-    source 348
-    target 284
-    label "5.3.12"
-    value 2.0
-    Label "5.3.12"
-  ]
-  edge
-  [
-    id 4342
-    source 349
-    target 193
     label "5.9.2"
     value 1.0
     Label "5.9.2"
   ]
   edge
   [
-    id 4343
-    source 349
-    target 350
-    label "5.9.2"
-    value 1.0
-    Label "5.9.2"
-  ]
-  edge
-  [
-    id 4344
-    source 349
-    target 351
+    id 2675
+    source 177
+    target 179
     label "5.9.2"
     value 2.0
     Label "5.9.2"
   ]
   edge
   [
-    id 4345
-    source 351
-    target 193
+    id 2676
+    source 179
+    target 21
     label "5.9.2"
     value 1.0
     Label "5.9.2"
   ]
   edge
   [
-    id 4356
-    source 351
-    target 284
+    id 2687
+    source 179
+    target 112
     label "5.9.5"
     value 1.0
     Label "5.9.5"
