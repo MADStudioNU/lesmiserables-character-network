@@ -1,0 +1,61 @@
+/** Main Communities **/
+
+/* Community 1: Jean Valjean (lots of nodes) */
+$lm_community-jean: rgb(219, 191, 0);
+$lm_community-jean: #DBBF00;
+//<viz:color r="219" g="191" b="0"></viz:color>
+
+/* Community 2: Myriel (lots of nodes) */
+$lm_community-myriel: rgb(219, 20, 0);
+$lm_community-myriel: #DB1400;
+//<viz:color r="219" g="20" b="0"></viz:color>
+
+/* Community 3: Gavroche (lots of nodes) */
+$lm_community-gavroche: rgb(107, 140, 255);
+$lm_community-gavroche: #6B8CFF;
+//<viz:color r="107" g="140" b="255"></viz:color>
+
+/* Community 4: Fantine (lots of nodes) */
+$lm_community-fantine: rgb(0, 214, 15);
+$lm_community-fantine: #00D60F;
+//<viz:color r="0" g="214" b="15"></viz:color>
+
+/* Community 5: Marius (lots of nodes) */
+$lm_community-marius: rgb(230, 117, 0);
+$lm_community-marius: #E67500;
+//<viz:color r="230" g="117" b="0"></viz:color>
+
+/* Community 6: Thenardier (lots of nodes) */
+$lm_community-thenardier: rgb(222, 82, 115);
+$lm_community-thenardier: #DE5273;
+//<viz:color r="222" g="82" b="115"></viz:color>
+
+/* Community 7: Gilnormand (8 nodes) */
+$lm_community-gilnormand: rgb(110, 87, 155);
+$lm_community-gilnormand: #6E579B;
+//<viz:color r="110" g="87" b="155"></viz:color>
+
+
+/** Secondary Communities **/
+
+/* Community 8: Bourgeois man (8 nodes) */      // different from Gavroche!
+$lm_community-bourgeois: rgb(100, 100, 100);
+$lm_community-bourgeois: #646464;
+//<viz:color r="80" g="80" b="80"></viz:color>
+
+// todo: finish color assignment
+/* Community 9: Pontmercy (5 nodes) */
+$lm_community-pontmercy: rgb(0, 204, 198);
+//<viz:color r="0" g="204" b="198"></viz:color>
+
+/* Community 10: Fauchelevent (3 nodes) */      // todo: different from Valjean!
+$lm_community-fauchelevent: rgb(110, 87, 155);
+//<viz:color r="110" g="87" b="155"></viz:color>
+
+/* Community 11: Valjean's sister (3 nodes) */  // todo: different from Valjean!
+$lm_community-sister: rgb(110, 87, 155);
+//<viz:color r="110" g="87" b="155"></viz:color>
+
+/* Community 12: Minister of Agriculture (2 nodes) */
+$lm_community-minister: rgb(0, 204, 198);
+//<viz:color r="0" g="204" b="198"></viz:color>

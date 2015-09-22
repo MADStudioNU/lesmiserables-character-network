@@ -3,16 +3,16 @@ JV Group in bright color: e.g. bright yellow
 primary colors for largest groups
 secondary/tertiary colors for less significant groups
 
-Group 1:  Pommercy
-Group 2:  Marius  #5: Orange
-Group 3:  Gavroche   #3 - Blue
-Group 4:  Thenardier  #6: Pink
-Group 5:  Jean Valjean   #1 - Yellow
-Group 6: Fantine  #4 - Green
-Group 7: Gilnormand  #5 - Lavender
-Group 8:  Bourgeois Man - different from Gavroche???
+Group 1:  Pontmercy
+*Group 2:  Marius  #5: Orange
+*Group 3:  Gavroche   #3 - Blue
+*Group 4:  Thenardier  #6: Pink
+*Group 5:  Jean Valjean   #1 - Yellow
+*Group 6:  Fantine  #4 - Green
+*Group 7:  Gilnormand  #7 - Lavender
+*Group 8:  Bourgeois Man - different from Gavroche???
 Group 9:  Fauchelevent -- different from JVJ???
-Group 10: Myriel - #2 - Red
+*Group 10: Myriel - #2 - Red
 Group 11: Valjean's Sister - different from JVJ
 Group 12: Minister of Agriculture - 
 
