@@ -12,4 +12,4 @@ Example executions:
      java -jar ~/Desktop/BookParser.jar ../jean-complete.dat ./part3_nodes.csv ./part3_edges.csv ./jean-complete-character-table.html ./jean-complete-chapter-table.html "3\.(.*)"
      java -jar ~/Desktop/BookParser.jar ../jean-complete.dat ./part4_nodes.csv ./part4_edges.csv ./jean-complete-character-table.html ./jean-complete-chapter-table.html "4\.(.*)"
      java -jar ~/Desktop/BookParser.jar ../jean-complete.dat ./part5_nodes.csv ./part5_edges.csv ./jean-complete-character-table.html ./jean-complete-chapter-table.html "5\.(.*)"
-     java -jar ~/Desktop/BookParser.jar ../jean-complete.dat ./part5_nodes.csv ./part5_edges.csv ./jean-complete-character-table.html ./jean-complete-chapter-table.html
+     java -jar ~/Desktop/BookParser.jar ../jean-complete.dat ./jean-complete-node.csv ./jean-complete-edge.csv ./jean-complete-character-table.html ./jean-complete-chapter-table.html
