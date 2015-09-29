@@ -2,7 +2,7 @@ Source,Target,Type,Id,Label
 "GP","TH","Undirected","1","2.1.19"
 "BZ","TH","Undirected","2","2.2.2"
 "BZ","JV","Undirected","3","2.2.2"
-"JV","SE","Undirected","4","2.2.3"
+"BS","JV","Undirected","4","2.2.3"
 "CO","EP","Undirected","5","2.3.1"
 "AZ","CO","Undirected","6","2.3.1"
 "CO","GA","Undirected","7","2.3.1"

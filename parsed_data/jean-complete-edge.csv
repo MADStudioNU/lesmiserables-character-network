@@ -404,7 +404,7 @@ Source,Target,Type,Id,Label
 "GP","TH","Undirected","403","2.1.19"
 "BZ","TH","Undirected","404","2.2.2"
 "BZ","JV","Undirected","405","2.2.2"
-"JV","SE","Undirected","406","2.2.3"
+"BS","JV","Undirected","406","2.2.3"
 "CO","EP","Undirected","407","2.3.1"
 "AZ","CO","Undirected","408","2.3.1"
 "CO","GA","Undirected","409","2.3.1"
