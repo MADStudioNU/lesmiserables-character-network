@@ -39,6 +39,7 @@ $lm_community-gilnormand: #6E579B;
 /** Secondary Communities **/
 
 /* Community 8: Bourgeois man (8 nodes) */
+// should be different from Gavroche!
 $lm_community-bourgeois: rgb(255, 99, 71);
 $lm_community-bourgeois: #ff6347;
 //<viz:color r="80" g="80" b="80"></viz:color>
@@ -49,11 +50,13 @@ $lm_community-pontmercy: rgb(50, 102, 167);
 $lm_community-pontmercy: #3266A7;
 //<viz:color r="0" g="204" b="198"></viz:color>
 
-/* Community 10: Fauchelevent (3 nodes) */      // todo: different from Valjean!
+/* Community 10: Fauchelevent (3 nodes) */
+// should be different from Valjean!
 $lm_community-fauchelevent: rgb(110, 87, 155);
 //<viz:color r="110" g="87" b="155"></viz:color>
 
-/* Community 11: Valjean's sister (3 nodes) */  // todo: different from Valjean!
+/* Community 11: Valjean's sister (3 nodes) */
+// should be different from Valjean!
 $lm_community-sister: rgb(110, 87, 155);
 //<viz:color r="110" g="87" b="155"></viz:color>
 
@@ -119,7 +122,7 @@ $cb_set1:
   rgb(204,235,197)
   rgb(255,237,111);
 
-$cb_set2:
+$cb_set2: // Probably the best set for us
   #a6cee3
   #1f78b4
   #b2df8a
@@ -138,10 +141,10 @@ $cb_set2:
   rgb(178,223,138)
   rgb(51,160,44)
   rgb(251,154,153)
-  rgb(227,26,28)
-  rgb(253,191,111)
+  rgb(227,26,28) // Myriel
+  rgb(253,191,111) // JVJ
   rgb(255,127,0)
   rgb(202,178,214)
-  rgb(106,61,154)
+  rgb(106,61,154) // Gilnormand
   rgb(255,255,153)
-  rgb(177,89,400);
+  rgb(177,89,40); //
