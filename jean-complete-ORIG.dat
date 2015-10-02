@@ -164,6 +164,7 @@ SI Sergeant at the Imprimérie Royale post							Sergeant, Imprimérie
 SM Servant at the hospital in M-sur-M								Hospital servant
 SN Senator, Count ***, in Digne										Senator
 SO Soldiers pursuing Valjean, led by Javert							Soldiers
+SP Sister Perpétue, nun at infirmary in M-sur-M						Sister Perpétue
 SR Servant to Marius at Garbeau tenement							Marius's servant
 SS Sister Simplice, nun at infirmary in M-sur-M						Sister Simplice
 SW Sewermen															Sewermen
@@ -239,7 +240,7 @@ ZE Zephine, mistress of Fameuil										Zephine
 1.5.13:JA,SG;FN,JA;FN,JA,JV;JA,JV;JV,FN
 1.6.1:JV,FN;JA;TH,TM;JV,FN;JV,DS;TH;FN,TH
 1.6.2:JV,JA;CH
-1.7.1:JV,FN;SS;JV,SS;JV,FN
+1.7.1:JV,FN;SP;SS;JV,SS;JV,FN
 1.7.2:JV,SC;SC,SD;JV;PO,CI
 1.7.3:JV
 1.7.4:JV;JV,PO
