@@ -156,7 +156,7 @@ RM Road mender														Road mender
 RP Ragpicker														Ragpicker
 SB Shepherd boy, serves G-- the conventionist						Shepherd boy
 SC M. Scaufflaire, keeper of horses and coaches in M-sur-M			M. Scaufflaire
-SD M. Scaufflaire's wife											M. Scaufflaire's wife
+SD M. Scaufflaire's wife											Scaufflaire's wife
 SE Servant girl in Saint Pol										Saint Pol Servant girl
 SF Supervisor in M. Madeleine's factory								Factory supervisor
 SG Police sergeant in M-sur-M										Police sergeant M-s-M
@@ -187,7 +187,7 @@ XB Younger Child, son of Thénardier, raised by Magnon				Younger child
 ZE Zephine, mistress of Fameuil										Zephine
 
 1.1.1:MY,NP;MY,MB,ME
-1.1.2:MY,HD;MY,MB;MY,MG;ME,MB;MY,MB
+1.1.2:MY,HD;MY,MB;MY,ME;ME,MB;MY,MB
 1.1.3:MY;MY,MS
 1.1.4:MY,ME;MY,CL;MY,GE;MY,MC;MY,MB;MY,CD
 1.1.5:MY,MB,ME
