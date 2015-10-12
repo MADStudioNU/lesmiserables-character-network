@@ -5,7 +5,7 @@ Source,Target,Type,Id,Label
 "MB","ME","Undirected","4","1.1.1"
 "HD","MY","Undirected","5","1.1.2"
 "MB","MY","Undirected","6","1.1.2"
-"MG","MY","Undirected","7","1.1.2"
+"ME","MY","Undirected","7","1.1.2"
 "MB","ME","Undirected","8","1.1.2"
 "MB","MY","Undirected","9","1.1.2"
 "MS","MY","Undirected","10","1.1.3"
